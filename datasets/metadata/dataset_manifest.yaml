@@ -1,0 +1,5 @@
+datasets:
+  - id: example-code-mixed
+    description: "Placeholder manifest for code-mixed social media dataset"
+    source: null
+    license: TBD

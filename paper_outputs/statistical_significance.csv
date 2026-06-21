@@ -1,0 +1,5 @@
+Comparison,mcnemar_stat,mcnemar_p,paired_t_stat,paired_t_p,wilcoxon_stat,wilcoxon_p
+Dynamic vs VADER,0.5,0.47950012218695337,0.0,1.0,1.5,1.0
+Dynamic vs DistilBERT,0.0,1.0,-0.9999999999999999,0.3632174676491228,0.0,1.0
+Dynamic vs BERTweet,0.0,1.0,0.5423261445466404,0.6108811833962556,2.0,1.0
+Dynamic vs Static Fusion,0.0,1.0,-0.9999999999999999,0.3632174676491228,0.0,1.0

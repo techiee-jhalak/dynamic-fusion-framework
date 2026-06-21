@@ -1,0 +1,207 @@
+{
+  "baseline": {
+    "DistilBERT": {
+      "accuracy": 0.8333333333333334,
+      "precision": 1.0,
+      "recall": 0.6666666666666666,
+      "f1": 0.8,
+      "roc_auc": 0.888888888888889,
+      "inference_time": 0.1852849324544271,
+      "model_size": "268341653 bytes"
+    },
+    "BERTweet": {
+      "accuracy": 0.5,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1": 0.6666666666666666,
+      "roc_auc": 0.33333333333333337,
+      "inference_time": 0.425063689549764,
+      "model_size": "542255736 bytes"
+    },
+    "VADER": {
+      "accuracy": 0.6666666666666666,
+      "precision": 0.6,
+      "recall": 1.0,
+      "f1": 0.75,
+      "roc_auc": 0.7222222222222222,
+      "inference_time": 0.00033402442932128906,
+      "model_size": "842646 bytes"
+    }
+  },
+  "fusion": {
+    "Static Fusion": {
+      "accuracy": 0.8333333333333334,
+      "precision": 1.0,
+      "recall": 0.6666666666666666,
+      "f1": 0.8,
+      "roc_auc": 0.7777777777777778,
+      "inference_time": 0.19728326797485352,
+      "model_size": "fusion-computed"
+    },
+    "Dynamic Fusion": {
+      "accuracy": 0.6666666666666666,
+      "precision": 0.6666666666666666,
+      "recall": 0.6666666666666666,
+      "f1": 0.6666666666666666,
+      "roc_auc": 0.7777777777777778,
+      "inference_time": 0.2073234717051188,
+      "model_size": "fusion-computed"
+    }
+  },
+  "ablation": [
+    {
+      "Variant": "Static Fusion",
+      "accuracy": 0.8333333333333334,
+      "precision": 1.0,
+      "recall": 0.6666666666666666,
+      "f1": 0.8
+    },
+    {
+      "Variant": "Length-Aware",
+      "accuracy": 0.6666666666666666,
+      "precision": 0.6666666666666666,
+      "recall": 0.6666666666666666,
+      "f1": 0.6666666666666666
+    },
+    {
+      "Variant": "Noise-Aware",
+      "accuracy": 0.8333333333333334,
+      "precision": 1.0,
+      "recall": 0.6666666666666666,
+      "f1": 0.8
+    },
+    {
+      "Variant": "Full Dynamic",
+      "accuracy": 0.6666666666666666,
+      "precision": 0.6666666666666666,
+      "recall": 0.6666666666666666,
+      "f1": 0.6666666666666666
+    }
+  ],
+  "statistical_significance": [
+    {
+      "Comparison": "Dynamic vs VADER",
+      "mcnemar_stat": 0.5,
+      "mcnemar_p": 0.47950012218695337,
+      "paired_t_stat": 0.0,
+      "paired_t_p": 1.0,
+      "wilcoxon_stat": 1.5,
+      "wilcoxon_p": 1.0
+    },
+    {
+      "Comparison": "Dynamic vs DistilBERT",
+      "mcnemar_stat": 0.0,
+      "mcnemar_p": 1.0,
+      "paired_t_stat": -0.9999999999999999,
+      "paired_t_p": 0.3632174676491228,
+      "wilcoxon_stat": 0.0,
+      "wilcoxon_p": 1.0
+    },
+    {
+      "Comparison": "Dynamic vs BERTweet",
+      "mcnemar_stat": 0.0,
+      "mcnemar_p": 1.0,
+      "paired_t_stat": 0.5423261445466404,
+      "paired_t_p": 0.6108811833962556,
+      "wilcoxon_stat": 2.0,
+      "wilcoxon_p": 1.0
+    },
+    {
+      "Comparison": "Dynamic vs Static Fusion",
+      "mcnemar_stat": 0.0,
+      "mcnemar_p": 1.0,
+      "paired_t_stat": -0.9999999999999999,
+      "paired_t_p": 0.3632174676491228,
+      "wilcoxon_stat": 0.0,
+      "wilcoxon_p": 1.0
+    }
+  ],
+  "error_analysis": [
+    {
+      "category": "Code-Mixing",
+      "count": 5
+    },
+    {
+      "category": "Emoji Ambiguity",
+      "count": 3
+    },
+    {
+      "category": "Other",
+      "count": 1
+    },
+    {
+      "category": "Sarcasm",
+      "count": 1
+    }
+  ],
+  "noise_sensitivity": [
+    {
+      "noise_bin": "Low Noise",
+      "Model": "VADER",
+      "accuracy": 0.8
+    },
+    {
+      "noise_bin": "Low Noise",
+      "Model": "DistilBERT",
+      "accuracy": 0.8
+    },
+    {
+      "noise_bin": "Low Noise",
+      "Model": "BERTweet",
+      "accuracy": 0.6
+    },
+    {
+      "noise_bin": "Low Noise",
+      "Model": "Static Fusion",
+      "accuracy": 0.8
+    },
+    {
+      "noise_bin": "Low Noise",
+      "Model": "Dynamic Fusion",
+      "accuracy": 0.6
+    },
+    {
+      "noise_bin": "Medium Noise",
+      "Model": "VADER",
+      "accuracy": 0.0
+    },
+    {
+      "noise_bin": "Medium Noise",
+      "Model": "DistilBERT",
+      "accuracy": 1.0
+    },
+    {
+      "noise_bin": "Medium Noise",
+      "Model": "BERTweet",
+      "accuracy": 0.0
+    },
+    {
+      "noise_bin": "Medium Noise",
+      "Model": "Static Fusion",
+      "accuracy": 1.0
+    },
+    {
+      "noise_bin": "Medium Noise",
+      "Model": "Dynamic Fusion",
+      "accuracy": 1.0
+    }
+  ],
+  "noise_component_contribution": [
+    {
+      "component": "E",
+      "value": 0.09623015873015872
+    },
+    {
+      "component": "R",
+      "value": 0.05555555555555555
+    },
+    {
+      "component": "C",
+      "value": 0.4510281385281385
+    },
+    {
+      "component": "S",
+      "value": 0.5095598845598844
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "Static Fusion": {
+    "accuracy": 0.8333333333333334,
+    "precision": 1.0,
+    "recall": 0.6666666666666666,
+    "f1": 0.8,
+    "roc_auc": 0.7777777777777778,
+    "inference_time": 0.20688501993815103,
+    "model_size": "fusion-computed"
+  },
+  "Dynamic Fusion": {
+    "accuracy": 0.6666666666666666,
+    "precision": 0.6666666666666666,
+    "recall": 0.6666666666666666,
+    "f1": 0.6666666666666666,
+    "roc_auc": 0.7777777777777778,
+    "inference_time": 0.197509765625,
+    "model_size": "fusion-computed"
+  }
+}

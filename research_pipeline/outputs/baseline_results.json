@@ -1,0 +1,29 @@
+{
+  "DistilBERT": {
+    "accuracy": 0.8333333333333334,
+    "precision": 1.0,
+    "recall": 0.6666666666666666,
+    "f1": 0.8,
+    "roc_auc": 0.888888888888889,
+    "inference_time": 0.20128250122070312,
+    "model_size": "268341653 bytes"
+  },
+  "BERTweet": {
+    "accuracy": 0.5,
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1": 0.6666666666666666,
+    "roc_auc": 0.888888888888889,
+    "inference_time": 0.3649047215779622,
+    "model_size": "542255736 bytes"
+  },
+  "VADER": {
+    "accuracy": 0.6666666666666666,
+    "precision": 0.6,
+    "recall": 1.0,
+    "f1": 0.75,
+    "roc_auc": 0.7222222222222222,
+    "inference_time": 0.00026377042134602863,
+    "model_size": "842646 bytes"
+  }
+}

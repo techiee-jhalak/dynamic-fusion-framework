@@ -1,0 +1,3 @@
+text,label,token_count,char_count,emoji_count,repeated_tokens,symbol_count,non_english_tokens,E,R,C,S,N,pred,score,alpha
+I love this!,1,4,12,0,0,1,1,0.0,0.0,0.25,0.25,0.125,1,0.8597642305007059,0.8487717474909259
+This is bad,0,3,11,0,0,0,2,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998,0,0.19910235348470467,0.8698915256370021

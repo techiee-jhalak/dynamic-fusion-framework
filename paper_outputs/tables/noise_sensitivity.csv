@@ -1,0 +1,11 @@
+noise_bin,Model,accuracy
+Low Noise,VADER,0.8
+Low Noise,DistilBERT,0.8
+Low Noise,BERTweet,0.6
+Low Noise,Static Fusion,0.8
+Low Noise,Dynamic Fusion,0.6
+Medium Noise,VADER,0.0
+Medium Noise,DistilBERT,1.0
+Medium Noise,BERTweet,0.0
+Medium Noise,Static Fusion,1.0
+Medium Noise,Dynamic Fusion,1.0
