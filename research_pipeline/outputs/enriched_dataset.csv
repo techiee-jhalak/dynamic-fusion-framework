@@ -1,7 +1,1201 @@
 text,label,token_count,char_count,emoji_count,repeated_tokens,symbol_count,non_english_tokens,E,R,C,S,N
-Hey yaar I'm so happy 😊,positive,8,23,1,0,2,3,0.125,0.0,0.375,0.25,0.19374999999999998
-Not good... 😒,negative,6,13,1,0,4,2,0.16666666666666666,0.0,0.3333333333333333,0.6666666666666666,0.275
-sooo coool!!!!,positive,6,14,0,2,4,1,0.0,0.3333333333333333,0.16666666666666666,0.6666666666666666,0.26666666666666666
-यह अच्छा नहीं है,negative,10,16,0,0,5,10,0.0,0.0,1.0,0.5,0.4
-Mixing hi hello नमस्ते!! :),positive,11,27,0,0,6,5,0.0,0.0,0.45454545454545453,0.5454545454545454,0.24545454545454543
-lol 😂😂 that's bad,negative,7,17,2,0,3,2,0.2857142857142857,0.0,0.2857142857142857,0.42857142857142855,0.24285714285714285
+Aaj ka din bohot acha tha yaar! id_0,positive,9,36,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_1,positive,9,40,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Dil khush ho gaya ye dekh kar! id_2,positive,9,35,0,0,1,5,0.0,0.0,0.5555555555555556,0.1111111111111111,0.18888888888888888
+Superb work team! keep rocking id_3,positive,7,35,0,0,1,3,0.0,0.0,0.42857142857142855,0.14285714285714285,0.15714285714285714
+Bahut badiya perform kiya tumne proud of you id_4,positive,9,49,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Wow! Aaj ka weather awesome hai id_5,positive,8,36,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_6",positive,12,51,0,0,2,7,0.0,0.0,0.5833333333333334,0.16666666666666666,0.20833333333333334
+Party toh banti hai ab toh 🥳 id_7,positive,8,33,1,0,1,5,0.125,0.0,0.625,0.125,0.24375
+Mera result bohot sahi aaya hai feeling blessed id_8,positive,9,52,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Maza aa gaya kya item hai id_9,positive,7,30,0,0,0,5,0.0,0.0,0.7142857142857143,0.0,0.21428571428571427
+Aaj ka din bohot acha tha yaar! id_10,positive,9,37,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Mera Bhai tu toh kamal hai loved it id_11,positive,9,41,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Dil khush ho gaya ye dekh kar! id_12,positive,9,36,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Superb work team! keep rocking id_13,positive,7,36,0,0,1,5,0.0,0.0,0.7142857142857143,0.14285714285714285,0.24285714285714285
+Bahut badiya perform kiya tumne proud of you id_14,positive,9,50,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Wow! Aaj ka weather awesome hai id_15,positive,8,37,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_16",positive,12,52,0,0,2,8,0.0,0.0,0.6666666666666666,0.16666666666666666,0.2333333333333333
+Party toh banti hai ab toh 🥳 id_17,positive,8,34,1,0,1,4,0.125,0.0,0.5,0.125,0.20625
+Mera result bohot sahi aaya hai feeling blessed id_18,positive,9,53,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_19,positive,7,31,0,0,0,3,0.0,0.0,0.42857142857142855,0.0,0.12857142857142856
+Aaj ka din bohot acha tha yaar! id_20,positive,9,37,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_21,positive,9,41,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Dil khush ho gaya ye dekh kar! id_22,positive,9,36,0,0,1,5,0.0,0.0,0.5555555555555556,0.1111111111111111,0.18888888888888888
+Superb work team! keep rocking id_23,positive,7,36,0,0,1,4,0.0,0.0,0.5714285714285714,0.14285714285714285,0.19999999999999998
+Bahut badiya perform kiya tumne proud of you id_24,positive,9,50,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Wow! Aaj ka weather awesome hai id_25,positive,8,37,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_26",positive,12,52,0,0,2,8,0.0,0.0,0.6666666666666666,0.16666666666666666,0.2333333333333333
+Party toh banti hai ab toh 🥳 id_27,positive,8,34,1,0,1,6,0.125,0.0,0.75,0.125,0.28125
+Mera result bohot sahi aaya hai feeling blessed id_28,positive,9,53,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_29,positive,7,31,0,0,0,3,0.0,0.0,0.42857142857142855,0.0,0.12857142857142856
+Aaj ka din bohot acha tha yaar! id_30,positive,9,37,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_31,positive,9,41,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Dil khush ho gaya ye dekh kar! id_32,positive,9,36,0,0,1,4,0.0,0.0,0.4444444444444444,0.1111111111111111,0.15555555555555556
+Superb work team! keep rocking id_33,positive,7,36,0,0,1,5,0.0,0.0,0.7142857142857143,0.14285714285714285,0.24285714285714285
+Bahut badiya perform kiya tumne proud of you id_34,positive,9,50,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Wow! Aaj ka weather awesome hai id_35,positive,8,37,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_36",positive,12,52,0,0,2,8,0.0,0.0,0.6666666666666666,0.16666666666666666,0.2333333333333333
+Party toh banti hai ab toh 🥳 id_37,positive,8,34,1,0,1,4,0.125,0.0,0.5,0.125,0.20625
+Mera result bohot sahi aaya hai feeling blessed id_38,positive,9,53,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_39,positive,7,31,0,0,0,3,0.0,0.0,0.42857142857142855,0.0,0.12857142857142856
+Aaj ka din bohot acha tha yaar! id_40,positive,9,37,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_41,positive,9,41,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Dil khush ho gaya ye dekh kar! id_42,positive,9,36,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Superb work team! keep rocking id_43,positive,7,36,0,0,1,5,0.0,0.0,0.7142857142857143,0.14285714285714285,0.24285714285714285
+Bahut badiya perform kiya tumne proud of you id_44,positive,9,50,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Wow! Aaj ka weather awesome hai id_45,positive,8,37,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_46",positive,12,52,0,0,2,7,0.0,0.0,0.5833333333333334,0.16666666666666666,0.20833333333333334
+Party toh banti hai ab toh 🥳 id_47,positive,8,34,1,0,1,4,0.125,0.0,0.5,0.125,0.20625
+Mera result bohot sahi aaya hai feeling blessed id_48,positive,9,53,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Maza aa gaya kya item hai id_49,positive,7,31,0,0,0,3,0.0,0.0,0.42857142857142855,0.0,0.12857142857142856
+Aaj ka din bohot acha tha yaar! id_50,positive,9,37,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_51,positive,9,41,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Dil khush ho gaya ye dekh kar! id_52,positive,9,36,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Superb work team! keep rocking id_53,positive,7,36,0,0,1,4,0.0,0.0,0.5714285714285714,0.14285714285714285,0.19999999999999998
+Bahut badiya perform kiya tumne proud of you id_54,positive,9,50,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Wow! Aaj ka weather awesome hai id_55,positive,8,37,0,0,1,4,0.0,0.0,0.5,0.125,0.175
+"Your content is always top notch, big fan sir! id_56",positive,12,52,0,0,2,7,0.0,0.0,0.5833333333333334,0.16666666666666666,0.20833333333333334
+Party toh banti hai ab toh 🥳 id_57,positive,8,34,1,0,1,4,0.125,0.0,0.5,0.125,0.20625
+Mera result bohot sahi aaya hai feeling blessed id_58,positive,9,53,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_59,positive,7,31,0,0,0,4,0.0,0.0,0.5714285714285714,0.0,0.1714285714285714
+Aaj ka din bohot acha tha yaar! id_60,positive,9,37,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_61,positive,9,41,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Dil khush ho gaya ye dekh kar! id_62,positive,9,36,0,0,1,5,0.0,0.0,0.5555555555555556,0.1111111111111111,0.18888888888888888
+Superb work team! keep rocking id_63,positive,7,36,0,0,1,3,0.0,0.0,0.42857142857142855,0.14285714285714285,0.15714285714285714
+Bahut badiya perform kiya tumne proud of you id_64,positive,9,50,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Wow! Aaj ka weather awesome hai id_65,positive,8,37,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_66",positive,12,52,0,0,2,8,0.0,0.0,0.6666666666666666,0.16666666666666666,0.2333333333333333
+Party toh banti hai ab toh 🥳 id_67,positive,8,34,1,0,1,4,0.125,0.0,0.5,0.125,0.20625
+Mera result bohot sahi aaya hai feeling blessed id_68,positive,9,53,0,0,0,9,0.0,0.0,1.0,0.0,0.3
+Maza aa gaya kya item hai id_69,positive,7,31,0,0,0,4,0.0,0.0,0.5714285714285714,0.0,0.1714285714285714
+Aaj ka din bohot acha tha yaar! id_70,positive,9,37,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Mera Bhai tu toh kamal hai loved it id_71,positive,9,41,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Dil khush ho gaya ye dekh kar! id_72,positive,9,36,0,0,1,5,0.0,0.0,0.5555555555555556,0.1111111111111111,0.18888888888888888
+Superb work team! keep rocking id_73,positive,7,36,0,0,1,3,0.0,0.0,0.42857142857142855,0.14285714285714285,0.15714285714285714
+Bahut badiya perform kiya tumne proud of you id_74,positive,9,50,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Wow! Aaj ka weather awesome hai id_75,positive,8,37,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_76",positive,12,52,0,0,2,8,0.0,0.0,0.6666666666666666,0.16666666666666666,0.2333333333333333
+Party toh banti hai ab toh 🥳 id_77,positive,8,34,1,0,1,4,0.125,0.0,0.5,0.125,0.20625
+Mera result bohot sahi aaya hai feeling blessed id_78,positive,9,53,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_79,positive,7,31,0,0,0,4,0.0,0.0,0.5714285714285714,0.0,0.1714285714285714
+Aaj ka din bohot acha tha yaar! id_80,positive,9,37,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Mera Bhai tu toh kamal hai loved it id_81,positive,9,41,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Dil khush ho gaya ye dekh kar! id_82,positive,9,36,0,0,1,5,0.0,0.0,0.5555555555555556,0.1111111111111111,0.18888888888888888
+Superb work team! keep rocking id_83,positive,7,36,0,0,1,4,0.0,0.0,0.5714285714285714,0.14285714285714285,0.19999999999999998
+Bahut badiya perform kiya tumne proud of you id_84,positive,9,50,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Wow! Aaj ka weather awesome hai id_85,positive,8,37,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_86",positive,12,52,0,0,2,8,0.0,0.0,0.6666666666666666,0.16666666666666666,0.2333333333333333
+Party toh banti hai ab toh 🥳 id_87,positive,8,34,1,0,1,4,0.125,0.0,0.5,0.125,0.20625
+Mera result bohot sahi aaya hai feeling blessed id_88,positive,9,53,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_89,positive,7,31,0,0,0,3,0.0,0.0,0.42857142857142855,0.0,0.12857142857142856
+Aaj ka din bohot acha tha yaar! id_90,positive,9,37,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_91,positive,9,41,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Dil khush ho gaya ye dekh kar! id_92,positive,9,36,0,0,1,4,0.0,0.0,0.4444444444444444,0.1111111111111111,0.15555555555555556
+Superb work team! keep rocking id_93,positive,7,36,0,0,1,3,0.0,0.0,0.42857142857142855,0.14285714285714285,0.15714285714285714
+Bahut badiya perform kiya tumne proud of you id_94,positive,9,50,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Wow! Aaj ka weather awesome hai id_95,positive,8,37,0,0,1,4,0.0,0.0,0.5,0.125,0.175
+"Your content is always top notch, big fan sir! id_96",positive,12,52,0,0,2,8,0.0,0.0,0.6666666666666666,0.16666666666666666,0.2333333333333333
+Party toh banti hai ab toh 🥳 id_97,positive,8,34,1,0,1,4,0.125,0.0,0.5,0.125,0.20625
+Mera result bohot sahi aaya hai feeling blessed id_98,positive,9,53,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_99,positive,7,31,0,0,0,3,0.0,0.0,0.42857142857142855,0.0,0.12857142857142856
+Aaj ka din bohot acha tha yaar! id_100,positive,9,38,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Mera Bhai tu toh kamal hai loved it id_101,positive,9,42,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Dil khush ho gaya ye dekh kar! id_102,positive,9,37,0,0,1,5,0.0,0.0,0.5555555555555556,0.1111111111111111,0.18888888888888888
+Superb work team! keep rocking id_103,positive,7,37,0,0,1,3,0.0,0.0,0.42857142857142855,0.14285714285714285,0.15714285714285714
+Bahut badiya perform kiya tumne proud of you id_104,positive,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Wow! Aaj ka weather awesome hai id_105,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_106",positive,12,53,0,0,2,7,0.0,0.0,0.5833333333333334,0.16666666666666666,0.20833333333333334
+Party toh banti hai ab toh 🥳 id_107,positive,8,35,1,0,1,4,0.125,0.0,0.5,0.125,0.20625
+Mera result bohot sahi aaya hai feeling blessed id_108,positive,9,54,0,0,0,9,0.0,0.0,1.0,0.0,0.3
+Maza aa gaya kya item hai id_109,positive,7,32,0,0,0,3,0.0,0.0,0.42857142857142855,0.0,0.12857142857142856
+Aaj ka din bohot acha tha yaar! id_110,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_111,positive,9,42,0,1,0,8,0.0,0.1111111111111111,0.8888888888888888,0.0,0.29444444444444445
+Dil khush ho gaya ye dekh kar! id_112,positive,9,37,0,0,1,4,0.0,0.0,0.4444444444444444,0.1111111111111111,0.15555555555555556
+Superb work team! keep rocking id_113,positive,7,37,0,0,1,5,0.0,0.0,0.7142857142857143,0.14285714285714285,0.24285714285714285
+Bahut badiya perform kiya tumne proud of you id_114,positive,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Wow! Aaj ka weather awesome hai id_115,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_116",positive,12,53,0,0,2,8,0.0,0.0,0.6666666666666666,0.16666666666666666,0.2333333333333333
+Party toh banti hai ab toh 🥳 id_117,positive,8,35,1,0,1,7,0.125,0.0,0.875,0.125,0.31875000000000003
+Mera result bohot sahi aaya hai feeling blessed id_118,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_119,positive,7,32,0,0,0,6,0.0,0.0,0.8571428571428571,0.0,0.2571428571428571
+Aaj ka din bohot acha tha yaar! id_120,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_121,positive,9,42,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Dil khush ho gaya ye dekh kar! id_122,positive,9,37,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Superb work team! keep rocking id_123,positive,7,37,0,0,1,3,0.0,0.0,0.42857142857142855,0.14285714285714285,0.15714285714285714
+Bahut badiya perform kiya tumne proud of you id_124,positive,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Wow! Aaj ka weather awesome hai id_125,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_126",positive,12,53,0,0,2,8,0.0,0.0,0.6666666666666666,0.16666666666666666,0.2333333333333333
+Party toh banti hai ab toh 🥳 id_127,positive,8,35,1,0,1,5,0.125,0.0,0.625,0.125,0.24375
+Mera result bohot sahi aaya hai feeling blessed id_128,positive,9,54,0,0,0,9,0.0,0.0,1.0,0.0,0.3
+Maza aa gaya kya item hai id_129,positive,7,32,0,0,0,4,0.0,0.0,0.5714285714285714,0.0,0.1714285714285714
+Aaj ka din bohot acha tha yaar! id_130,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_131,positive,9,42,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Dil khush ho gaya ye dekh kar! id_132,positive,9,37,0,0,1,4,0.0,0.0,0.4444444444444444,0.1111111111111111,0.15555555555555556
+Superb work team! keep rocking id_133,positive,7,37,0,0,1,4,0.0,0.0,0.5714285714285714,0.14285714285714285,0.19999999999999998
+Bahut badiya perform kiya tumne proud of you id_134,positive,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Wow! Aaj ka weather awesome hai id_135,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_136",positive,12,53,0,0,2,7,0.0,0.0,0.5833333333333334,0.16666666666666666,0.20833333333333334
+Party toh banti hai ab toh 🥳 id_137,positive,8,35,1,0,1,5,0.125,0.0,0.625,0.125,0.24375
+Mera result bohot sahi aaya hai feeling blessed id_138,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_139,positive,7,32,0,0,0,2,0.0,0.0,0.2857142857142857,0.0,0.0857142857142857
+Aaj ka din bohot acha tha yaar! id_140,positive,9,38,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Mera Bhai tu toh kamal hai loved it id_141,positive,9,42,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Dil khush ho gaya ye dekh kar! id_142,positive,9,37,0,0,1,5,0.0,0.0,0.5555555555555556,0.1111111111111111,0.18888888888888888
+Superb work team! keep rocking id_143,positive,7,37,0,0,1,3,0.0,0.0,0.42857142857142855,0.14285714285714285,0.15714285714285714
+Bahut badiya perform kiya tumne proud of you id_144,positive,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Wow! Aaj ka weather awesome hai id_145,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_146",positive,12,53,0,0,2,8,0.0,0.0,0.6666666666666666,0.16666666666666666,0.2333333333333333
+Party toh banti hai ab toh 🥳 id_147,positive,8,35,1,0,1,6,0.125,0.0,0.75,0.125,0.28125
+Mera result bohot sahi aaya hai feeling blessed id_148,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_149,positive,7,32,0,0,0,4,0.0,0.0,0.5714285714285714,0.0,0.1714285714285714
+Aaj ka din bohot acha tha yaar! id_150,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_151,positive,9,42,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Dil khush ho gaya ye dekh kar! id_152,positive,9,37,0,0,1,4,0.0,0.0,0.4444444444444444,0.1111111111111111,0.15555555555555556
+Superb work team! keep rocking id_153,positive,7,37,0,0,1,4,0.0,0.0,0.5714285714285714,0.14285714285714285,0.19999999999999998
+Bahut badiya perform kiya tumne proud of you id_154,positive,9,51,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Wow! Aaj ka weather awesome hai id_155,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_156",positive,12,53,0,0,2,7,0.0,0.0,0.5833333333333334,0.16666666666666666,0.20833333333333334
+Party toh banti hai ab toh 🥳 id_157,positive,8,35,1,0,1,6,0.125,0.0,0.75,0.125,0.28125
+Mera result bohot sahi aaya hai feeling blessed id_158,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_159,positive,7,32,0,0,0,3,0.0,0.0,0.42857142857142855,0.0,0.12857142857142856
+Aaj ka din bohot acha tha yaar! id_160,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_161,positive,9,42,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Dil khush ho gaya ye dekh kar! id_162,positive,9,37,0,0,1,5,0.0,0.0,0.5555555555555556,0.1111111111111111,0.18888888888888888
+Superb work team! keep rocking id_163,positive,7,37,0,0,1,5,0.0,0.0,0.7142857142857143,0.14285714285714285,0.24285714285714285
+Bahut badiya perform kiya tumne proud of you id_164,positive,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Wow! Aaj ka weather awesome hai id_165,positive,8,38,0,0,1,6,0.0,0.0,0.75,0.125,0.24999999999999997
+"Your content is always top notch, big fan sir! id_166",positive,12,53,0,0,2,7,0.0,0.0,0.5833333333333334,0.16666666666666666,0.20833333333333334
+Party toh banti hai ab toh 🥳 id_167,positive,8,35,1,0,1,5,0.125,0.0,0.625,0.125,0.24375
+Mera result bohot sahi aaya hai feeling blessed id_168,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_169,positive,7,32,0,0,0,3,0.0,0.0,0.42857142857142855,0.0,0.12857142857142856
+Aaj ka din bohot acha tha yaar! id_170,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_171,positive,9,42,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Dil khush ho gaya ye dekh kar! id_172,positive,9,37,0,0,1,5,0.0,0.0,0.5555555555555556,0.1111111111111111,0.18888888888888888
+Superb work team! keep rocking id_173,positive,7,37,0,0,1,4,0.0,0.0,0.5714285714285714,0.14285714285714285,0.19999999999999998
+Bahut badiya perform kiya tumne proud of you id_174,positive,9,51,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Wow! Aaj ka weather awesome hai id_175,positive,8,38,0,0,1,4,0.0,0.0,0.5,0.125,0.175
+"Your content is always top notch, big fan sir! id_176",positive,12,53,0,0,2,6,0.0,0.0,0.5,0.16666666666666666,0.18333333333333332
+Party toh banti hai ab toh 🥳 id_177,positive,8,35,1,0,1,5,0.125,0.0,0.625,0.125,0.24375
+Mera result bohot sahi aaya hai feeling blessed id_178,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_179,positive,7,32,0,0,0,4,0.0,0.0,0.5714285714285714,0.0,0.1714285714285714
+Aaj ka din bohot acha tha yaar! id_180,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_181,positive,9,42,0,0,0,9,0.0,0.0,1.0,0.0,0.3
+Dil khush ho gaya ye dekh kar! id_182,positive,9,37,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Superb work team! keep rocking id_183,positive,7,37,0,0,1,6,0.0,0.0,0.8571428571428571,0.14285714285714285,0.2857142857142857
+Bahut badiya perform kiya tumne proud of you id_184,positive,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Wow! Aaj ka weather awesome hai id_185,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_186",positive,12,53,0,0,2,8,0.0,0.0,0.6666666666666666,0.16666666666666666,0.2333333333333333
+Party toh banti hai ab toh 🥳 id_187,positive,8,35,1,0,1,6,0.125,0.0,0.75,0.125,0.28125
+Mera result bohot sahi aaya hai feeling blessed id_188,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_189,positive,7,32,0,0,0,3,0.0,0.0,0.42857142857142855,0.0,0.12857142857142856
+Aaj ka din bohot acha tha yaar! id_190,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_191,positive,9,42,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Dil khush ho gaya ye dekh kar! id_192,positive,9,37,0,0,1,5,0.0,0.0,0.5555555555555556,0.1111111111111111,0.18888888888888888
+Superb work team! keep rocking id_193,positive,7,37,0,0,1,5,0.0,0.0,0.7142857142857143,0.14285714285714285,0.24285714285714285
+Bahut badiya perform kiya tumne proud of you id_194,positive,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Wow! Aaj ka weather awesome hai id_195,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_196",positive,12,53,0,0,2,7,0.0,0.0,0.5833333333333334,0.16666666666666666,0.20833333333333334
+Party toh banti hai ab toh 🥳 id_197,positive,8,35,1,0,1,5,0.125,0.0,0.625,0.125,0.24375
+Mera result bohot sahi aaya hai feeling blessed id_198,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_199,positive,7,32,0,0,0,5,0.0,0.0,0.7142857142857143,0.0,0.21428571428571427
+Aaj ka din bohot acha tha yaar! id_200,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_201,positive,9,42,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Dil khush ho gaya ye dekh kar! id_202,positive,9,37,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Superb work team! keep rocking id_203,positive,7,37,0,0,1,4,0.0,0.0,0.5714285714285714,0.14285714285714285,0.19999999999999998
+Bahut badiya perform kiya tumne proud of you id_204,positive,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Wow! Aaj ka weather awesome hai id_205,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_206",positive,12,53,0,0,2,8,0.0,0.0,0.6666666666666666,0.16666666666666666,0.2333333333333333
+Party toh banti hai ab toh 🥳 id_207,positive,8,35,1,0,1,4,0.125,0.0,0.5,0.125,0.20625
+Mera result bohot sahi aaya hai feeling blessed id_208,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_209,positive,7,32,0,0,0,3,0.0,0.0,0.42857142857142855,0.0,0.12857142857142856
+Aaj ka din bohot acha tha yaar! id_210,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_211,positive,9,42,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Dil khush ho gaya ye dekh kar! id_212,positive,9,37,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Superb work team! keep rocking id_213,positive,7,37,0,0,1,4,0.0,0.0,0.5714285714285714,0.14285714285714285,0.19999999999999998
+Bahut badiya perform kiya tumne proud of you id_214,positive,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Wow! Aaj ka weather awesome hai id_215,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_216",positive,12,53,0,0,2,8,0.0,0.0,0.6666666666666666,0.16666666666666666,0.2333333333333333
+Party toh banti hai ab toh 🥳 id_217,positive,8,35,1,0,1,4,0.125,0.0,0.5,0.125,0.20625
+Mera result bohot sahi aaya hai feeling blessed id_218,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_219,positive,7,32,0,0,0,4,0.0,0.0,0.5714285714285714,0.0,0.1714285714285714
+Aaj ka din bohot acha tha yaar! id_220,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_221,positive,9,42,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Dil khush ho gaya ye dekh kar! id_222,positive,9,37,0,1,1,5,0.0,0.1111111111111111,0.5555555555555556,0.1111111111111111,0.21666666666666665
+Superb work team! keep rocking id_223,positive,7,37,0,0,1,4,0.0,0.0,0.5714285714285714,0.14285714285714285,0.19999999999999998
+Bahut badiya perform kiya tumne proud of you id_224,positive,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Wow! Aaj ka weather awesome hai id_225,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_226",positive,12,53,0,0,2,7,0.0,0.0,0.5833333333333334,0.16666666666666666,0.20833333333333334
+Party toh banti hai ab toh 🥳 id_227,positive,8,35,1,0,1,4,0.125,0.0,0.5,0.125,0.20625
+Mera result bohot sahi aaya hai feeling blessed id_228,positive,9,54,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Maza aa gaya kya item hai id_229,positive,7,32,0,0,0,4,0.0,0.0,0.5714285714285714,0.0,0.1714285714285714
+Aaj ka din bohot acha tha yaar! id_230,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_231,positive,9,42,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Dil khush ho gaya ye dekh kar! id_232,positive,9,37,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Superb work team! keep rocking id_233,positive,7,37,0,0,1,4,0.0,0.0,0.5714285714285714,0.14285714285714285,0.19999999999999998
+Bahut badiya perform kiya tumne proud of you id_234,positive,9,51,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Wow! Aaj ka weather awesome hai id_235,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_236",positive,12,53,0,0,2,7,0.0,0.0,0.5833333333333334,0.16666666666666666,0.20833333333333334
+Party toh banti hai ab toh 🥳 id_237,positive,8,35,1,0,1,5,0.125,0.0,0.625,0.125,0.24375
+Mera result bohot sahi aaya hai feeling blessed id_238,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_239,positive,7,32,0,0,0,4,0.0,0.0,0.5714285714285714,0.0,0.1714285714285714
+Aaj ka din bohot acha tha yaar! id_240,positive,9,38,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Mera Bhai tu toh kamal hai loved it id_241,positive,9,42,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Dil khush ho gaya ye dekh kar! id_242,positive,9,37,0,0,1,4,0.0,0.0,0.4444444444444444,0.1111111111111111,0.15555555555555556
+Superb work team! keep rocking id_243,positive,7,37,0,0,1,3,0.0,0.0,0.42857142857142855,0.14285714285714285,0.15714285714285714
+Bahut badiya perform kiya tumne proud of you id_244,positive,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Wow! Aaj ka weather awesome hai id_245,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_246",positive,12,53,0,0,2,8,0.0,0.0,0.6666666666666666,0.16666666666666666,0.2333333333333333
+Party toh banti hai ab toh 🥳 id_247,positive,8,35,1,0,1,5,0.125,0.0,0.625,0.125,0.24375
+Mera result bohot sahi aaya hai feeling blessed id_248,positive,9,54,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Maza aa gaya kya item hai id_249,positive,7,32,0,0,0,2,0.0,0.0,0.2857142857142857,0.0,0.0857142857142857
+Aaj ka din bohot acha tha yaar! id_250,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_251,positive,9,42,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Dil khush ho gaya ye dekh kar! id_252,positive,9,37,0,0,1,5,0.0,0.0,0.5555555555555556,0.1111111111111111,0.18888888888888888
+Superb work team! keep rocking id_253,positive,7,37,0,0,1,4,0.0,0.0,0.5714285714285714,0.14285714285714285,0.19999999999999998
+Bahut badiya perform kiya tumne proud of you id_254,positive,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Wow! Aaj ka weather awesome hai id_255,positive,8,38,0,0,1,4,0.0,0.0,0.5,0.125,0.175
+"Your content is always top notch, big fan sir! id_256",positive,12,53,0,0,2,8,0.0,0.0,0.6666666666666666,0.16666666666666666,0.2333333333333333
+Party toh banti hai ab toh 🥳 id_257,positive,8,35,1,0,1,4,0.125,0.0,0.5,0.125,0.20625
+Mera result bohot sahi aaya hai feeling blessed id_258,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_259,positive,7,32,0,0,0,5,0.0,0.0,0.7142857142857143,0.0,0.21428571428571427
+Aaj ka din bohot acha tha yaar! id_260,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_261,positive,9,42,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Dil khush ho gaya ye dekh kar! id_262,positive,9,37,0,0,1,5,0.0,0.0,0.5555555555555556,0.1111111111111111,0.18888888888888888
+Superb work team! keep rocking id_263,positive,7,37,0,0,1,4,0.0,0.0,0.5714285714285714,0.14285714285714285,0.19999999999999998
+Bahut badiya perform kiya tumne proud of you id_264,positive,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Wow! Aaj ka weather awesome hai id_265,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_266",positive,12,53,0,0,2,7,0.0,0.0,0.5833333333333334,0.16666666666666666,0.20833333333333334
+Party toh banti hai ab toh 🥳 id_267,positive,8,35,1,0,1,5,0.125,0.0,0.625,0.125,0.24375
+Mera result bohot sahi aaya hai feeling blessed id_268,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_269,positive,7,32,0,0,0,4,0.0,0.0,0.5714285714285714,0.0,0.1714285714285714
+Aaj ka din bohot acha tha yaar! id_270,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_271,positive,9,42,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Dil khush ho gaya ye dekh kar! id_272,positive,9,37,0,0,1,5,0.0,0.0,0.5555555555555556,0.1111111111111111,0.18888888888888888
+Superb work team! keep rocking id_273,positive,7,37,0,0,1,4,0.0,0.0,0.5714285714285714,0.14285714285714285,0.19999999999999998
+Bahut badiya perform kiya tumne proud of you id_274,positive,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Wow! Aaj ka weather awesome hai id_275,positive,8,38,0,0,1,4,0.0,0.0,0.5,0.125,0.175
+"Your content is always top notch, big fan sir! id_276",positive,12,53,0,0,2,7,0.0,0.0,0.5833333333333334,0.16666666666666666,0.20833333333333334
+Party toh banti hai ab toh 🥳 id_277,positive,8,35,1,0,1,4,0.125,0.0,0.5,0.125,0.20625
+Mera result bohot sahi aaya hai feeling blessed id_278,positive,9,54,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Maza aa gaya kya item hai id_279,positive,7,32,0,0,0,2,0.0,0.0,0.2857142857142857,0.0,0.0857142857142857
+Aaj ka din bohot acha tha yaar! id_280,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_281,positive,9,42,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Dil khush ho gaya ye dekh kar! id_282,positive,9,37,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Superb work team! keep rocking id_283,positive,7,37,0,0,1,4,0.0,0.0,0.5714285714285714,0.14285714285714285,0.19999999999999998
+Bahut badiya perform kiya tumne proud of you id_284,positive,9,51,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Wow! Aaj ka weather awesome hai id_285,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_286",positive,12,53,0,0,2,8,0.0,0.0,0.6666666666666666,0.16666666666666666,0.2333333333333333
+Party toh banti hai ab toh 🥳 id_287,positive,8,35,1,0,1,5,0.125,0.0,0.625,0.125,0.24375
+Mera result bohot sahi aaya hai feeling blessed id_288,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_289,positive,7,32,0,0,0,3,0.0,0.0,0.42857142857142855,0.0,0.12857142857142856
+Aaj ka din bohot acha tha yaar! id_290,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_291,positive,9,42,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Dil khush ho gaya ye dekh kar! id_292,positive,9,37,0,0,1,5,0.0,0.0,0.5555555555555556,0.1111111111111111,0.18888888888888888
+Superb work team! keep rocking id_293,positive,7,37,0,0,1,5,0.0,0.0,0.7142857142857143,0.14285714285714285,0.24285714285714285
+Bahut badiya perform kiya tumne proud of you id_294,positive,9,51,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Wow! Aaj ka weather awesome hai id_295,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_296",positive,12,53,0,0,2,7,0.0,0.0,0.5833333333333334,0.16666666666666666,0.20833333333333334
+Party toh banti hai ab toh 🥳 id_297,positive,8,35,1,0,1,5,0.125,0.0,0.625,0.125,0.24375
+Mera result bohot sahi aaya hai feeling blessed id_298,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_299,positive,7,32,0,0,0,2,0.0,0.0,0.2857142857142857,0.0,0.0857142857142857
+Aaj ka din bohot acha tha yaar! id_300,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_301,positive,9,42,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Dil khush ho gaya ye dekh kar! id_302,positive,9,37,0,0,1,5,0.0,0.0,0.5555555555555556,0.1111111111111111,0.18888888888888888
+Superb work team! keep rocking id_303,positive,7,37,0,0,1,3,0.0,0.0,0.42857142857142855,0.14285714285714285,0.15714285714285714
+Bahut badiya perform kiya tumne proud of you id_304,positive,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Wow! Aaj ka weather awesome hai id_305,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_306",positive,12,53,0,0,2,8,0.0,0.0,0.6666666666666666,0.16666666666666666,0.2333333333333333
+Party toh banti hai ab toh 🥳 id_307,positive,8,35,1,0,1,7,0.125,0.0,0.875,0.125,0.31875000000000003
+Mera result bohot sahi aaya hai feeling blessed id_308,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_309,positive,7,32,0,0,0,3,0.0,0.0,0.42857142857142855,0.0,0.12857142857142856
+Aaj ka din bohot acha tha yaar! id_310,positive,9,38,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Mera Bhai tu toh kamal hai loved it id_311,positive,9,42,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Dil khush ho gaya ye dekh kar! id_312,positive,9,37,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Superb work team! keep rocking id_313,positive,7,37,0,0,1,4,0.0,0.0,0.5714285714285714,0.14285714285714285,0.19999999999999998
+Bahut badiya perform kiya tumne proud of you id_314,positive,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Wow! Aaj ka weather awesome hai id_315,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_316",positive,12,53,0,0,2,7,0.0,0.0,0.5833333333333334,0.16666666666666666,0.20833333333333334
+Party toh banti hai ab toh 🥳 id_317,positive,8,35,1,0,1,5,0.125,0.0,0.625,0.125,0.24375
+Mera result bohot sahi aaya hai feeling blessed id_318,positive,9,54,0,0,0,9,0.0,0.0,1.0,0.0,0.3
+Maza aa gaya kya item hai id_319,positive,7,32,0,0,0,3,0.0,0.0,0.42857142857142855,0.0,0.12857142857142856
+Aaj ka din bohot acha tha yaar! id_320,positive,9,38,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Mera Bhai tu toh kamal hai loved it id_321,positive,9,42,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Dil khush ho gaya ye dekh kar! id_322,positive,9,37,0,0,1,5,0.0,0.0,0.5555555555555556,0.1111111111111111,0.18888888888888888
+Superb work team! keep rocking id_323,positive,7,37,0,0,1,3,0.0,0.0,0.42857142857142855,0.14285714285714285,0.15714285714285714
+Bahut badiya perform kiya tumne proud of you id_324,positive,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Wow! Aaj ka weather awesome hai id_325,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_326",positive,12,53,0,0,2,7,0.0,0.0,0.5833333333333334,0.16666666666666666,0.20833333333333334
+Party toh banti hai ab toh 🥳 id_327,positive,8,35,1,0,1,5,0.125,0.0,0.625,0.125,0.24375
+Mera result bohot sahi aaya hai feeling blessed id_328,positive,9,54,0,0,0,9,0.0,0.0,1.0,0.0,0.3
+Maza aa gaya kya item hai id_329,positive,7,32,0,0,0,4,0.0,0.0,0.5714285714285714,0.0,0.1714285714285714
+Aaj ka din bohot acha tha yaar! id_330,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_331,positive,9,42,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Dil khush ho gaya ye dekh kar! id_332,positive,9,37,0,0,1,5,0.0,0.0,0.5555555555555556,0.1111111111111111,0.18888888888888888
+Superb work team! keep rocking id_333,positive,7,37,0,1,1,3,0.0,0.14285714285714285,0.42857142857142855,0.14285714285714285,0.19285714285714284
+Bahut badiya perform kiya tumne proud of you id_334,positive,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Wow! Aaj ka weather awesome hai id_335,positive,8,38,0,0,1,4,0.0,0.0,0.5,0.125,0.175
+"Your content is always top notch, big fan sir! id_336",positive,12,53,0,0,2,6,0.0,0.0,0.5,0.16666666666666666,0.18333333333333332
+Party toh banti hai ab toh 🥳 id_337,positive,8,35,1,0,1,6,0.125,0.0,0.75,0.125,0.28125
+Mera result bohot sahi aaya hai feeling blessed id_338,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_339,positive,7,32,0,0,0,3,0.0,0.0,0.42857142857142855,0.0,0.12857142857142856
+Aaj ka din bohot acha tha yaar! id_340,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_341,positive,9,42,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Dil khush ho gaya ye dekh kar! id_342,positive,9,37,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Superb work team! keep rocking id_343,positive,7,37,0,0,1,3,0.0,0.0,0.42857142857142855,0.14285714285714285,0.15714285714285714
+Bahut badiya perform kiya tumne proud of you id_344,positive,9,51,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Wow! Aaj ka weather awesome hai id_345,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_346",positive,12,53,0,0,2,7,0.0,0.0,0.5833333333333334,0.16666666666666666,0.20833333333333334
+Party toh banti hai ab toh 🥳 id_347,positive,8,35,1,0,1,5,0.125,0.0,0.625,0.125,0.24375
+Mera result bohot sahi aaya hai feeling blessed id_348,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_349,positive,7,32,0,0,0,3,0.0,0.0,0.42857142857142855,0.0,0.12857142857142856
+Aaj ka din bohot acha tha yaar! id_350,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_351,positive,9,42,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Dil khush ho gaya ye dekh kar! id_352,positive,9,37,0,0,1,5,0.0,0.0,0.5555555555555556,0.1111111111111111,0.18888888888888888
+Superb work team! keep rocking id_353,positive,7,37,0,0,1,3,0.0,0.0,0.42857142857142855,0.14285714285714285,0.15714285714285714
+Bahut badiya perform kiya tumne proud of you id_354,positive,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Wow! Aaj ka weather awesome hai id_355,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_356",positive,12,53,0,0,2,8,0.0,0.0,0.6666666666666666,0.16666666666666666,0.2333333333333333
+Party toh banti hai ab toh 🥳 id_357,positive,8,35,1,0,1,6,0.125,0.0,0.75,0.125,0.28125
+Mera result bohot sahi aaya hai feeling blessed id_358,positive,9,54,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Maza aa gaya kya item hai id_359,positive,7,32,0,0,0,3,0.0,0.0,0.42857142857142855,0.0,0.12857142857142856
+Aaj ka din bohot acha tha yaar! id_360,positive,9,38,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Mera Bhai tu toh kamal hai loved it id_361,positive,9,42,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Dil khush ho gaya ye dekh kar! id_362,positive,9,37,0,0,1,5,0.0,0.0,0.5555555555555556,0.1111111111111111,0.18888888888888888
+Superb work team! keep rocking id_363,positive,7,37,0,0,1,4,0.0,0.0,0.5714285714285714,0.14285714285714285,0.19999999999999998
+Bahut badiya perform kiya tumne proud of you id_364,positive,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Wow! Aaj ka weather awesome hai id_365,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_366",positive,12,53,0,0,2,8,0.0,0.0,0.6666666666666666,0.16666666666666666,0.2333333333333333
+Party toh banti hai ab toh 🥳 id_367,positive,8,35,1,0,1,4,0.125,0.0,0.5,0.125,0.20625
+Mera result bohot sahi aaya hai feeling blessed id_368,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_369,positive,7,32,0,0,0,4,0.0,0.0,0.5714285714285714,0.0,0.1714285714285714
+Aaj ka din bohot acha tha yaar! id_370,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_371,positive,9,42,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Dil khush ho gaya ye dekh kar! id_372,positive,9,37,0,0,1,5,0.0,0.0,0.5555555555555556,0.1111111111111111,0.18888888888888888
+Superb work team! keep rocking id_373,positive,7,37,0,0,1,3,0.0,0.0,0.42857142857142855,0.14285714285714285,0.15714285714285714
+Bahut badiya perform kiya tumne proud of you id_374,positive,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Wow! Aaj ka weather awesome hai id_375,positive,8,38,0,0,1,6,0.0,0.0,0.75,0.125,0.24999999999999997
+"Your content is always top notch, big fan sir! id_376",positive,12,53,0,0,2,8,0.0,0.0,0.6666666666666666,0.16666666666666666,0.2333333333333333
+Party toh banti hai ab toh 🥳 id_377,positive,8,35,1,0,1,5,0.125,0.0,0.625,0.125,0.24375
+Mera result bohot sahi aaya hai feeling blessed id_378,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_379,positive,7,32,0,0,0,4,0.0,0.0,0.5714285714285714,0.0,0.1714285714285714
+Aaj ka din bohot acha tha yaar! id_380,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_381,positive,9,42,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Dil khush ho gaya ye dekh kar! id_382,positive,9,37,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Superb work team! keep rocking id_383,positive,7,37,0,0,1,3,0.0,0.0,0.42857142857142855,0.14285714285714285,0.15714285714285714
+Bahut badiya perform kiya tumne proud of you id_384,positive,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Wow! Aaj ka weather awesome hai id_385,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_386",positive,12,53,0,0,2,7,0.0,0.0,0.5833333333333334,0.16666666666666666,0.20833333333333334
+Party toh banti hai ab toh 🥳 id_387,positive,8,35,1,0,1,5,0.125,0.0,0.625,0.125,0.24375
+Mera result bohot sahi aaya hai feeling blessed id_388,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_389,positive,7,32,0,0,0,5,0.0,0.0,0.7142857142857143,0.0,0.21428571428571427
+Aaj ka din bohot acha tha yaar! id_390,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_391,positive,9,42,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Dil khush ho gaya ye dekh kar! id_392,positive,9,37,0,0,1,5,0.0,0.0,0.5555555555555556,0.1111111111111111,0.18888888888888888
+Superb work team! keep rocking id_393,positive,7,37,0,0,1,5,0.0,0.0,0.7142857142857143,0.14285714285714285,0.24285714285714285
+Bahut badiya perform kiya tumne proud of you id_394,positive,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Wow! Aaj ka weather awesome hai id_395,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_396",positive,12,53,0,0,2,8,0.0,0.0,0.6666666666666666,0.16666666666666666,0.2333333333333333
+Party toh banti hai ab toh 🥳 id_397,positive,8,35,1,0,1,5,0.125,0.0,0.625,0.125,0.24375
+Mera result bohot sahi aaya hai feeling blessed id_398,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_399,positive,7,32,0,0,0,3,0.0,0.0,0.42857142857142855,0.0,0.12857142857142856
+Aaj ka din bohot acha tha yaar! id_400,positive,9,38,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Mera Bhai tu toh kamal hai loved it id_401,positive,9,42,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Dil khush ho gaya ye dekh kar! id_402,positive,9,37,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Superb work team! keep rocking id_403,positive,7,37,0,0,1,4,0.0,0.0,0.5714285714285714,0.14285714285714285,0.19999999999999998
+Bahut badiya perform kiya tumne proud of you id_404,positive,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Wow! Aaj ka weather awesome hai id_405,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_406",positive,12,53,0,0,2,7,0.0,0.0,0.5833333333333334,0.16666666666666666,0.20833333333333334
+Party toh banti hai ab toh 🥳 id_407,positive,8,35,1,0,1,5,0.125,0.0,0.625,0.125,0.24375
+Mera result bohot sahi aaya hai feeling blessed id_408,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_409,positive,7,32,0,0,0,5,0.0,0.0,0.7142857142857143,0.0,0.21428571428571427
+Aaj ka din bohot acha tha yaar! id_410,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_411,positive,9,42,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Dil khush ho gaya ye dekh kar! id_412,positive,9,37,0,0,1,5,0.0,0.0,0.5555555555555556,0.1111111111111111,0.18888888888888888
+Superb work team! keep rocking id_413,positive,7,37,0,0,1,3,0.0,0.0,0.42857142857142855,0.14285714285714285,0.15714285714285714
+Bahut badiya perform kiya tumne proud of you id_414,positive,9,51,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Wow! Aaj ka weather awesome hai id_415,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_416",positive,12,53,0,0,2,8,0.0,0.0,0.6666666666666666,0.16666666666666666,0.2333333333333333
+Party toh banti hai ab toh 🥳 id_417,positive,8,35,1,0,1,6,0.125,0.0,0.75,0.125,0.28125
+Mera result bohot sahi aaya hai feeling blessed id_418,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_419,positive,7,32,0,0,0,3,0.0,0.0,0.42857142857142855,0.0,0.12857142857142856
+Aaj ka din bohot acha tha yaar! id_420,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_421,positive,9,42,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Dil khush ho gaya ye dekh kar! id_422,positive,9,37,0,0,1,5,0.0,0.0,0.5555555555555556,0.1111111111111111,0.18888888888888888
+Superb work team! keep rocking id_423,positive,7,37,0,0,1,3,0.0,0.0,0.42857142857142855,0.14285714285714285,0.15714285714285714
+Bahut badiya perform kiya tumne proud of you id_424,positive,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Wow! Aaj ka weather awesome hai id_425,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_426",positive,12,53,0,0,2,7,0.0,0.0,0.5833333333333334,0.16666666666666666,0.20833333333333334
+Party toh banti hai ab toh 🥳 id_427,positive,8,35,1,0,1,5,0.125,0.0,0.625,0.125,0.24375
+Mera result bohot sahi aaya hai feeling blessed id_428,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_429,positive,7,32,0,0,0,2,0.0,0.0,0.2857142857142857,0.0,0.0857142857142857
+Aaj ka din bohot acha tha yaar! id_430,positive,9,38,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Mera Bhai tu toh kamal hai loved it id_431,positive,9,42,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Dil khush ho gaya ye dekh kar! id_432,positive,9,37,0,0,1,5,0.0,0.0,0.5555555555555556,0.1111111111111111,0.18888888888888888
+Superb work team! keep rocking id_433,positive,7,37,0,0,1,5,0.0,0.0,0.7142857142857143,0.14285714285714285,0.24285714285714285
+Bahut badiya perform kiya tumne proud of you id_434,positive,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Wow! Aaj ka weather awesome hai id_435,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_436",positive,12,53,0,0,2,7,0.0,0.0,0.5833333333333334,0.16666666666666666,0.20833333333333334
+Party toh banti hai ab toh 🥳 id_437,positive,8,35,1,0,1,4,0.125,0.0,0.5,0.125,0.20625
+Mera result bohot sahi aaya hai feeling blessed id_438,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_439,positive,7,32,0,0,0,3,0.0,0.0,0.42857142857142855,0.0,0.12857142857142856
+Aaj ka din bohot acha tha yaar! id_440,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_441,positive,9,42,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Dil khush ho gaya ye dekh kar! id_442,positive,9,37,0,0,1,4,0.0,0.0,0.4444444444444444,0.1111111111111111,0.15555555555555556
+Superb work team! keep rocking id_443,positive,7,37,0,0,1,3,0.0,0.0,0.42857142857142855,0.14285714285714285,0.15714285714285714
+Bahut badiya perform kiya tumne proud of you id_444,positive,9,51,0,1,0,7,0.0,0.1111111111111111,0.7777777777777778,0.0,0.2611111111111111
+Wow! Aaj ka weather awesome hai id_445,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_446",positive,12,53,0,0,2,7,0.0,0.0,0.5833333333333334,0.16666666666666666,0.20833333333333334
+Party toh banti hai ab toh 🥳 id_447,positive,8,35,1,0,1,5,0.125,0.0,0.625,0.125,0.24375
+Mera result bohot sahi aaya hai feeling blessed id_448,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_449,positive,7,32,0,0,0,3,0.0,0.0,0.42857142857142855,0.0,0.12857142857142856
+Aaj ka din bohot acha tha yaar! id_450,positive,9,38,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Mera Bhai tu toh kamal hai loved it id_451,positive,9,42,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Dil khush ho gaya ye dekh kar! id_452,positive,9,37,0,0,1,3,0.0,0.0,0.3333333333333333,0.1111111111111111,0.12222222222222222
+Superb work team! keep rocking id_453,positive,7,37,0,0,1,4,0.0,0.0,0.5714285714285714,0.14285714285714285,0.19999999999999998
+Bahut badiya perform kiya tumne proud of you id_454,positive,9,51,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Wow! Aaj ka weather awesome hai id_455,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_456",positive,12,53,0,0,2,7,0.0,0.0,0.5833333333333334,0.16666666666666666,0.20833333333333334
+Party toh banti hai ab toh 🥳 id_457,positive,8,35,1,0,1,5,0.125,0.0,0.625,0.125,0.24375
+Mera result bohot sahi aaya hai feeling blessed id_458,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_459,positive,7,32,0,0,0,5,0.0,0.0,0.7142857142857143,0.0,0.21428571428571427
+Aaj ka din bohot acha tha yaar! id_460,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_461,positive,9,42,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Dil khush ho gaya ye dekh kar! id_462,positive,9,37,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Superb work team! keep rocking id_463,positive,7,37,0,0,1,6,0.0,0.0,0.8571428571428571,0.14285714285714285,0.2857142857142857
+Bahut badiya perform kiya tumne proud of you id_464,positive,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Wow! Aaj ka weather awesome hai id_465,positive,8,38,0,0,1,4,0.0,0.0,0.5,0.125,0.175
+"Your content is always top notch, big fan sir! id_466",positive,12,53,0,0,2,7,0.0,0.0,0.5833333333333334,0.16666666666666666,0.20833333333333334
+Party toh banti hai ab toh 🥳 id_467,positive,8,35,1,0,1,5,0.125,0.0,0.625,0.125,0.24375
+Mera result bohot sahi aaya hai feeling blessed id_468,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_469,positive,7,32,0,0,0,4,0.0,0.0,0.5714285714285714,0.0,0.1714285714285714
+Aaj ka din bohot acha tha yaar! id_470,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_471,positive,9,42,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Dil khush ho gaya ye dekh kar! id_472,positive,9,37,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Superb work team! keep rocking id_473,positive,7,37,0,0,1,3,0.0,0.0,0.42857142857142855,0.14285714285714285,0.15714285714285714
+Bahut badiya perform kiya tumne proud of you id_474,positive,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Wow! Aaj ka weather awesome hai id_475,positive,8,38,0,0,1,4,0.0,0.0,0.5,0.125,0.175
+"Your content is always top notch, big fan sir! id_476",positive,12,53,0,0,2,8,0.0,0.0,0.6666666666666666,0.16666666666666666,0.2333333333333333
+Party toh banti hai ab toh 🥳 id_477,positive,8,35,1,0,1,5,0.125,0.0,0.625,0.125,0.24375
+Mera result bohot sahi aaya hai feeling blessed id_478,positive,9,54,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Maza aa gaya kya item hai id_479,positive,7,32,0,0,0,3,0.0,0.0,0.42857142857142855,0.0,0.12857142857142856
+Aaj ka din bohot acha tha yaar! id_480,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_481,positive,9,42,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Dil khush ho gaya ye dekh kar! id_482,positive,9,37,0,0,1,6,0.0,0.0,0.6666666666666666,0.1111111111111111,0.2222222222222222
+Superb work team! keep rocking id_483,positive,7,37,0,0,1,3,0.0,0.0,0.42857142857142855,0.14285714285714285,0.15714285714285714
+Bahut badiya perform kiya tumne proud of you id_484,positive,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Wow! Aaj ka weather awesome hai id_485,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_486",positive,12,53,0,0,2,8,0.0,0.0,0.6666666666666666,0.16666666666666666,0.2333333333333333
+Party toh banti hai ab toh 🥳 id_487,positive,8,35,1,0,1,4,0.125,0.0,0.5,0.125,0.20625
+Mera result bohot sahi aaya hai feeling blessed id_488,positive,9,54,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Maza aa gaya kya item hai id_489,positive,7,32,0,0,0,3,0.0,0.0,0.42857142857142855,0.0,0.12857142857142856
+Aaj ka din bohot acha tha yaar! id_490,positive,9,38,0,0,1,7,0.0,0.0,0.7777777777777778,0.1111111111111111,0.25555555555555554
+Mera Bhai tu toh kamal hai loved it id_491,positive,9,42,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Dil khush ho gaya ye dekh kar! id_492,positive,9,37,0,0,1,5,0.0,0.0,0.5555555555555556,0.1111111111111111,0.18888888888888888
+Superb work team! keep rocking id_493,positive,7,37,0,0,1,5,0.0,0.0,0.7142857142857143,0.14285714285714285,0.24285714285714285
+Bahut badiya perform kiya tumne proud of you id_494,positive,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Wow! Aaj ka weather awesome hai id_495,positive,8,38,0,0,1,5,0.0,0.0,0.625,0.125,0.2125
+"Your content is always top notch, big fan sir! id_496",positive,12,53,0,0,2,8,0.0,0.0,0.6666666666666666,0.16666666666666666,0.2333333333333333
+Party toh banti hai ab toh 🥳 id_497,positive,8,35,1,0,1,6,0.125,0.0,0.75,0.125,0.28125
+Mera result bohot sahi aaya hai feeling blessed id_498,positive,9,54,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Maza aa gaya kya item hai id_499,positive,7,32,0,0,0,5,0.0,0.0,0.7142857142857143,0.0,0.21428571428571427
+Not good... 😒 id_0,negative,7,18,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_1,negative,11,21,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_2,negative,8,22,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_3,negative,9,49,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Bilkul bekar service hai waste of money id_4,negative,8,44,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_5,negative,10,54,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Aisa behave nahi karna chahiye tha worst behavior id_6,negative,9,54,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_7,negative,12,60,0,0,0,7,0.0,0.0,0.5833333333333334,0.0,0.17500000000000002
+Fraud company h paise loot liye mere id_8,negative,8,41,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Khatarnak ganda taste tha breaks my heart truly id_9,negative,9,52,0,0,0,4,0.0,0.0,0.4444444444444444,0.0,0.13333333333333333
+Not good... 😒 id_10,negative,7,19,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_11,negative,11,22,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_12,negative,8,23,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_13,negative,9,50,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Bilkul bekar service hai waste of money id_14,negative,8,45,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_15,negative,10,55,0,0,0,10,0.0,0.0,1.0,0.0,0.3
+Aisa behave nahi karna chahiye tha worst behavior id_16,negative,9,55,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_17,negative,12,61,0,0,0,7,0.0,0.0,0.5833333333333334,0.0,0.17500000000000002
+Fraud company h paise loot liye mere id_18,negative,8,42,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Khatarnak ganda taste tha breaks my heart truly id_19,negative,9,53,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Not good... 😒 id_20,negative,7,19,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_21,negative,11,22,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_22,negative,8,23,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_23,negative,9,50,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Bilkul bekar service hai waste of money id_24,negative,8,45,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_25,negative,10,55,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Aisa behave nahi karna chahiye tha worst behavior id_26,negative,9,55,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_27,negative,12,61,0,0,0,8,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Fraud company h paise loot liye mere id_28,negative,8,42,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Khatarnak ganda taste tha breaks my heart truly id_29,negative,9,53,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Not good... 😒 id_30,negative,7,19,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_31,negative,11,22,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_32,negative,8,23,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_33,negative,9,50,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Bilkul bekar service hai waste of money id_34,negative,8,45,0,0,0,5,0.0,0.0,0.625,0.0,0.1875
+Mood kharab kar diya tumne bilkul achha nahi laga id_35,negative,10,55,0,0,0,9,0.0,0.0,0.9,0.0,0.27
+Aisa behave nahi karna chahiye tha worst behavior id_36,negative,9,55,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_37,negative,12,61,0,0,0,8,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Fraud company h paise loot liye mere id_38,negative,8,42,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Khatarnak ganda taste tha breaks my heart truly id_39,negative,9,53,0,0,0,4,0.0,0.0,0.4444444444444444,0.0,0.13333333333333333
+Not good... 😒 id_40,negative,7,19,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_41,negative,11,22,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_42,negative,8,23,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_43,negative,9,50,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Bilkul bekar service hai waste of money id_44,negative,8,45,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_45,negative,10,55,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Aisa behave nahi karna chahiye tha worst behavior id_46,negative,9,55,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_47,negative,12,61,0,0,0,6,0.0,0.0,0.5,0.0,0.15
+Fraud company h paise loot liye mere id_48,negative,8,42,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Khatarnak ganda taste tha breaks my heart truly id_49,negative,9,53,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Not good... 😒 id_50,negative,7,19,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_51,negative,11,22,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_52,negative,8,23,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_53,negative,9,50,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Bilkul bekar service hai waste of money id_54,negative,8,45,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_55,negative,10,55,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Aisa behave nahi karna chahiye tha worst behavior id_56,negative,9,55,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_57,negative,12,61,0,0,0,8,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Fraud company h paise loot liye mere id_58,negative,8,42,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Khatarnak ganda taste tha breaks my heart truly id_59,negative,9,53,0,0,0,4,0.0,0.0,0.4444444444444444,0.0,0.13333333333333333
+Not good... 😒 id_60,negative,7,19,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_61,negative,11,22,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_62,negative,8,23,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_63,negative,9,50,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Bilkul bekar service hai waste of money id_64,negative,8,45,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_65,negative,10,55,0,0,0,9,0.0,0.0,0.9,0.0,0.27
+Aisa behave nahi karna chahiye tha worst behavior id_66,negative,9,55,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_67,negative,12,61,0,0,0,8,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Fraud company h paise loot liye mere id_68,negative,8,42,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Khatarnak ganda taste tha breaks my heart truly id_69,negative,9,53,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Not good... 😒 id_70,negative,7,19,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_71,negative,11,22,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_72,negative,8,23,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_73,negative,9,50,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Bilkul bekar service hai waste of money id_74,negative,8,45,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_75,negative,10,55,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Aisa behave nahi karna chahiye tha worst behavior id_76,negative,9,55,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_77,negative,12,61,0,0,0,6,0.0,0.0,0.5,0.0,0.15
+Fraud company h paise loot liye mere id_78,negative,8,42,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Khatarnak ganda taste tha breaks my heart truly id_79,negative,9,53,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Not good... 😒 id_80,negative,7,19,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_81,negative,11,22,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_82,negative,8,23,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_83,negative,9,50,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Bilkul bekar service hai waste of money id_84,negative,8,45,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_85,negative,10,55,0,0,0,9,0.0,0.0,0.9,0.0,0.27
+Aisa behave nahi karna chahiye tha worst behavior id_86,negative,9,55,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_87,negative,12,61,0,0,0,7,0.0,0.0,0.5833333333333334,0.0,0.17500000000000002
+Fraud company h paise loot liye mere id_88,negative,8,42,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Khatarnak ganda taste tha breaks my heart truly id_89,negative,9,53,0,0,0,4,0.0,0.0,0.4444444444444444,0.0,0.13333333333333333
+Not good... 😒 id_90,negative,7,19,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_91,negative,11,22,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_92,negative,8,23,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_93,negative,9,50,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Bilkul bekar service hai waste of money id_94,negative,8,45,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_95,negative,10,55,0,0,0,9,0.0,0.0,0.9,0.0,0.27
+Aisa behave nahi karna chahiye tha worst behavior id_96,negative,9,55,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_97,negative,12,61,0,0,0,8,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Fraud company h paise loot liye mere id_98,negative,8,42,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Khatarnak ganda taste tha breaks my heart truly id_99,negative,9,53,0,0,0,3,0.0,0.0,0.3333333333333333,0.0,0.09999999999999999
+Not good... 😒 id_100,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_101,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_102,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_103,negative,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Bilkul bekar service hai waste of money id_104,negative,8,46,0,0,0,5,0.0,0.0,0.625,0.0,0.1875
+Mood kharab kar diya tumne bilkul achha nahi laga id_105,negative,10,56,0,0,0,9,0.0,0.0,0.9,0.0,0.27
+Aisa behave nahi karna chahiye tha worst behavior id_106,negative,9,56,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_107,negative,12,62,0,0,0,9,0.0,0.0,0.75,0.0,0.22499999999999998
+Fraud company h paise loot liye mere id_108,negative,8,43,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Khatarnak ganda taste tha breaks my heart truly id_109,negative,9,54,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Not good... 😒 id_110,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_111,negative,11,23,0,1,5,11,0.0,0.09090909090909091,1.0,0.45454545454545453,0.4136363636363636
+lol 😂😂 that's bad id_112,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_113,negative,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Bilkul bekar service hai waste of money id_114,negative,8,46,0,0,0,5,0.0,0.0,0.625,0.0,0.1875
+Mood kharab kar diya tumne bilkul achha nahi laga id_115,negative,10,56,0,0,0,9,0.0,0.0,0.9,0.0,0.27
+Aisa behave nahi karna chahiye tha worst behavior id_116,negative,9,56,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_117,negative,12,62,0,0,0,9,0.0,0.0,0.75,0.0,0.22499999999999998
+Fraud company h paise loot liye mere id_118,negative,8,43,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Khatarnak ganda taste tha breaks my heart truly id_119,negative,9,54,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Not good... 😒 id_120,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_121,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_122,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_123,negative,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Bilkul bekar service hai waste of money id_124,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_125,negative,10,56,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Aisa behave nahi karna chahiye tha worst behavior id_126,negative,9,56,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_127,negative,12,62,0,0,0,8,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Fraud company h paise loot liye mere id_128,negative,8,43,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Khatarnak ganda taste tha breaks my heart truly id_129,negative,9,54,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Not good... 😒 id_130,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_131,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_132,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_133,negative,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Bilkul bekar service hai waste of money id_134,negative,8,46,0,0,0,5,0.0,0.0,0.625,0.0,0.1875
+Mood kharab kar diya tumne bilkul achha nahi laga id_135,negative,10,56,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Aisa behave nahi karna chahiye tha worst behavior id_136,negative,9,56,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_137,negative,12,62,0,0,0,8,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Fraud company h paise loot liye mere id_138,negative,8,43,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Khatarnak ganda taste tha breaks my heart truly id_139,negative,9,54,0,0,0,4,0.0,0.0,0.4444444444444444,0.0,0.13333333333333333
+Not good... 😒 id_140,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_141,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_142,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_143,negative,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Bilkul bekar service hai waste of money id_144,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_145,negative,10,56,0,0,0,9,0.0,0.0,0.9,0.0,0.27
+Aisa behave nahi karna chahiye tha worst behavior id_146,negative,9,56,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_147,negative,12,62,0,0,0,9,0.0,0.0,0.75,0.0,0.22499999999999998
+Fraud company h paise loot liye mere id_148,negative,8,43,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Khatarnak ganda taste tha breaks my heart truly id_149,negative,9,54,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Not good... 😒 id_150,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_151,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_152,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_153,negative,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Bilkul bekar service hai waste of money id_154,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_155,negative,10,56,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Aisa behave nahi karna chahiye tha worst behavior id_156,negative,9,56,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_157,negative,12,62,0,0,0,8,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Fraud company h paise loot liye mere id_158,negative,8,43,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Khatarnak ganda taste tha breaks my heart truly id_159,negative,9,54,0,0,0,4,0.0,0.0,0.4444444444444444,0.0,0.13333333333333333
+Not good... 😒 id_160,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_161,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_162,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_163,negative,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Bilkul bekar service hai waste of money id_164,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_165,negative,10,56,0,0,0,9,0.0,0.0,0.9,0.0,0.27
+Aisa behave nahi karna chahiye tha worst behavior id_166,negative,9,56,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_167,negative,12,62,0,0,0,9,0.0,0.0,0.75,0.0,0.22499999999999998
+Fraud company h paise loot liye mere id_168,negative,8,43,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Khatarnak ganda taste tha breaks my heart truly id_169,negative,9,54,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Not good... 😒 id_170,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_171,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_172,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_173,negative,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Bilkul bekar service hai waste of money id_174,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_175,negative,10,56,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Aisa behave nahi karna chahiye tha worst behavior id_176,negative,9,56,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_177,negative,12,62,0,0,0,8,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Fraud company h paise loot liye mere id_178,negative,8,43,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Khatarnak ganda taste tha breaks my heart truly id_179,negative,9,54,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Not good... 😒 id_180,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_181,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_182,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_183,negative,9,51,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Bilkul bekar service hai waste of money id_184,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_185,negative,10,56,0,0,0,9,0.0,0.0,0.9,0.0,0.27
+Aisa behave nahi karna chahiye tha worst behavior id_186,negative,9,56,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_187,negative,12,62,0,0,0,8,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Fraud company h paise loot liye mere id_188,negative,8,43,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Khatarnak ganda taste tha breaks my heart truly id_189,negative,9,54,0,0,0,4,0.0,0.0,0.4444444444444444,0.0,0.13333333333333333
+Not good... 😒 id_190,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_191,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_192,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_193,negative,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Bilkul bekar service hai waste of money id_194,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_195,negative,10,56,0,0,0,9,0.0,0.0,0.9,0.0,0.27
+Aisa behave nahi karna chahiye tha worst behavior id_196,negative,9,56,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_197,negative,12,62,0,0,0,8,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Fraud company h paise loot liye mere id_198,negative,8,43,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Khatarnak ganda taste tha breaks my heart truly id_199,negative,9,54,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Not good... 😒 id_200,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_201,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_202,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_203,negative,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Bilkul bekar service hai waste of money id_204,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_205,negative,10,56,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Aisa behave nahi karna chahiye tha worst behavior id_206,negative,9,56,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_207,negative,12,62,0,0,0,8,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Fraud company h paise loot liye mere id_208,negative,8,43,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Khatarnak ganda taste tha breaks my heart truly id_209,negative,9,54,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Not good... 😒 id_210,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_211,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_212,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_213,negative,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Bilkul bekar service hai waste of money id_214,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_215,negative,10,56,0,0,0,10,0.0,0.0,1.0,0.0,0.3
+Aisa behave nahi karna chahiye tha worst behavior id_216,negative,9,56,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_217,negative,12,62,0,0,0,7,0.0,0.0,0.5833333333333334,0.0,0.17500000000000002
+Fraud company h paise loot liye mere id_218,negative,8,43,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Khatarnak ganda taste tha breaks my heart truly id_219,negative,9,54,0,0,0,3,0.0,0.0,0.3333333333333333,0.0,0.09999999999999999
+Not good... 😒 id_220,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_221,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_222,negative,8,24,2,1,3,3,0.25,0.125,0.375,0.375,0.28125
+Bohot hi ganda experience tha maza nahi aaya id_223,negative,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Bilkul bekar service hai waste of money id_224,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_225,negative,10,56,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Aisa behave nahi karna chahiye tha worst behavior id_226,negative,9,56,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_227,negative,12,62,0,0,0,7,0.0,0.0,0.5833333333333334,0.0,0.17500000000000002
+Fraud company h paise loot liye mere id_228,negative,8,43,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Khatarnak ganda taste tha breaks my heart truly id_229,negative,9,54,0,0,0,4,0.0,0.0,0.4444444444444444,0.0,0.13333333333333333
+Not good... 😒 id_230,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_231,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_232,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_233,negative,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Bilkul bekar service hai waste of money id_234,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_235,negative,10,56,0,0,0,9,0.0,0.0,0.9,0.0,0.27
+Aisa behave nahi karna chahiye tha worst behavior id_236,negative,9,56,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_237,negative,12,62,0,0,0,9,0.0,0.0,0.75,0.0,0.22499999999999998
+Fraud company h paise loot liye mere id_238,negative,8,43,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Khatarnak ganda taste tha breaks my heart truly id_239,negative,9,54,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Not good... 😒 id_240,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_241,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_242,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_243,negative,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Bilkul bekar service hai waste of money id_244,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_245,negative,10,56,0,0,0,9,0.0,0.0,0.9,0.0,0.27
+Aisa behave nahi karna chahiye tha worst behavior id_246,negative,9,56,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_247,negative,12,62,0,0,0,9,0.0,0.0,0.75,0.0,0.22499999999999998
+Fraud company h paise loot liye mere id_248,negative,8,43,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Khatarnak ganda taste tha breaks my heart truly id_249,negative,9,54,0,0,0,4,0.0,0.0,0.4444444444444444,0.0,0.13333333333333333
+Not good... 😒 id_250,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_251,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_252,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_253,negative,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Bilkul bekar service hai waste of money id_254,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_255,negative,10,56,0,0,0,9,0.0,0.0,0.9,0.0,0.27
+Aisa behave nahi karna chahiye tha worst behavior id_256,negative,9,56,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_257,negative,12,62,0,0,0,8,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Fraud company h paise loot liye mere id_258,negative,8,43,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Khatarnak ganda taste tha breaks my heart truly id_259,negative,9,54,0,0,0,4,0.0,0.0,0.4444444444444444,0.0,0.13333333333333333
+Not good... 😒 id_260,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_261,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_262,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_263,negative,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Bilkul bekar service hai waste of money id_264,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_265,negative,10,56,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Aisa behave nahi karna chahiye tha worst behavior id_266,negative,9,56,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_267,negative,12,62,0,0,0,7,0.0,0.0,0.5833333333333334,0.0,0.17500000000000002
+Fraud company h paise loot liye mere id_268,negative,8,43,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Khatarnak ganda taste tha breaks my heart truly id_269,negative,9,54,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Not good... 😒 id_270,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_271,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_272,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_273,negative,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Bilkul bekar service hai waste of money id_274,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_275,negative,10,56,0,0,0,9,0.0,0.0,0.9,0.0,0.27
+Aisa behave nahi karna chahiye tha worst behavior id_276,negative,9,56,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_277,negative,12,62,0,0,0,7,0.0,0.0,0.5833333333333334,0.0,0.17500000000000002
+Fraud company h paise loot liye mere id_278,negative,8,43,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Khatarnak ganda taste tha breaks my heart truly id_279,negative,9,54,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Not good... 😒 id_280,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_281,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_282,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_283,negative,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Bilkul bekar service hai waste of money id_284,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_285,negative,10,56,0,0,0,9,0.0,0.0,0.9,0.0,0.27
+Aisa behave nahi karna chahiye tha worst behavior id_286,negative,9,56,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_287,negative,12,62,0,0,0,9,0.0,0.0,0.75,0.0,0.22499999999999998
+Fraud company h paise loot liye mere id_288,negative,8,43,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Khatarnak ganda taste tha breaks my heart truly id_289,negative,9,54,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Not good... 😒 id_290,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_291,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_292,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_293,negative,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Bilkul bekar service hai waste of money id_294,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_295,negative,10,56,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Aisa behave nahi karna chahiye tha worst behavior id_296,negative,9,56,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_297,negative,12,62,0,0,0,8,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Fraud company h paise loot liye mere id_298,negative,8,43,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Khatarnak ganda taste tha breaks my heart truly id_299,negative,9,54,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Not good... 😒 id_300,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_301,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_302,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_303,negative,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Bilkul bekar service hai waste of money id_304,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_305,negative,10,56,0,0,0,10,0.0,0.0,1.0,0.0,0.3
+Aisa behave nahi karna chahiye tha worst behavior id_306,negative,9,56,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_307,negative,12,62,0,0,0,7,0.0,0.0,0.5833333333333334,0.0,0.17500000000000002
+Fraud company h paise loot liye mere id_308,negative,8,43,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Khatarnak ganda taste tha breaks my heart truly id_309,negative,9,54,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Not good... 😒 id_310,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_311,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_312,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_313,negative,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Bilkul bekar service hai waste of money id_314,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_315,negative,10,56,0,0,0,9,0.0,0.0,0.9,0.0,0.27
+Aisa behave nahi karna chahiye tha worst behavior id_316,negative,9,56,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_317,negative,12,62,0,0,0,7,0.0,0.0,0.5833333333333334,0.0,0.17500000000000002
+Fraud company h paise loot liye mere id_318,negative,8,43,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Khatarnak ganda taste tha breaks my heart truly id_319,negative,9,54,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Not good... 😒 id_320,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_321,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_322,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_323,negative,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Bilkul bekar service hai waste of money id_324,negative,8,46,0,0,0,5,0.0,0.0,0.625,0.0,0.1875
+Mood kharab kar diya tumne bilkul achha nahi laga id_325,negative,10,56,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Aisa behave nahi karna chahiye tha worst behavior id_326,negative,9,56,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_327,negative,12,62,0,0,0,8,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Fraud company h paise loot liye mere id_328,negative,8,43,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Khatarnak ganda taste tha breaks my heart truly id_329,negative,9,54,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Not good... 😒 id_330,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_331,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_332,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_333,negative,9,51,0,1,0,7,0.0,0.1111111111111111,0.7777777777777778,0.0,0.2611111111111111
+Bilkul bekar service hai waste of money id_334,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_335,negative,10,56,0,0,0,9,0.0,0.0,0.9,0.0,0.27
+Aisa behave nahi karna chahiye tha worst behavior id_336,negative,9,56,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_337,negative,12,62,0,0,0,9,0.0,0.0,0.75,0.0,0.22499999999999998
+Fraud company h paise loot liye mere id_338,negative,8,43,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Khatarnak ganda taste tha breaks my heart truly id_339,negative,9,54,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Not good... 😒 id_340,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_341,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_342,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_343,negative,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Bilkul bekar service hai waste of money id_344,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_345,negative,10,56,0,0,0,9,0.0,0.0,0.9,0.0,0.27
+Aisa behave nahi karna chahiye tha worst behavior id_346,negative,9,56,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_347,negative,12,62,0,0,0,7,0.0,0.0,0.5833333333333334,0.0,0.17500000000000002
+Fraud company h paise loot liye mere id_348,negative,8,43,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Khatarnak ganda taste tha breaks my heart truly id_349,negative,9,54,0,0,0,4,0.0,0.0,0.4444444444444444,0.0,0.13333333333333333
+Not good... 😒 id_350,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_351,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_352,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_353,negative,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Bilkul bekar service hai waste of money id_354,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_355,negative,10,56,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Aisa behave nahi karna chahiye tha worst behavior id_356,negative,9,56,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_357,negative,12,62,0,0,0,10,0.0,0.0,0.8333333333333334,0.0,0.25
+Fraud company h paise loot liye mere id_358,negative,8,43,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Khatarnak ganda taste tha breaks my heart truly id_359,negative,9,54,0,0,0,4,0.0,0.0,0.4444444444444444,0.0,0.13333333333333333
+Not good... 😒 id_360,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_361,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_362,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_363,negative,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Bilkul bekar service hai waste of money id_364,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_365,negative,10,56,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Aisa behave nahi karna chahiye tha worst behavior id_366,negative,9,56,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_367,negative,12,62,0,0,0,8,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Fraud company h paise loot liye mere id_368,negative,8,43,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Khatarnak ganda taste tha breaks my heart truly id_369,negative,9,54,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Not good... 😒 id_370,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_371,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_372,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_373,negative,9,51,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Bilkul bekar service hai waste of money id_374,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_375,negative,10,56,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Aisa behave nahi karna chahiye tha worst behavior id_376,negative,9,56,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_377,negative,12,62,0,0,0,7,0.0,0.0,0.5833333333333334,0.0,0.17500000000000002
+Fraud company h paise loot liye mere id_378,negative,8,43,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Khatarnak ganda taste tha breaks my heart truly id_379,negative,9,54,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Not good... 😒 id_380,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_381,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_382,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_383,negative,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Bilkul bekar service hai waste of money id_384,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_385,negative,10,56,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Aisa behave nahi karna chahiye tha worst behavior id_386,negative,9,56,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_387,negative,12,62,0,0,0,10,0.0,0.0,0.8333333333333334,0.0,0.25
+Fraud company h paise loot liye mere id_388,negative,8,43,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Khatarnak ganda taste tha breaks my heart truly id_389,negative,9,54,0,0,0,3,0.0,0.0,0.3333333333333333,0.0,0.09999999999999999
+Not good... 😒 id_390,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_391,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_392,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_393,negative,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Bilkul bekar service hai waste of money id_394,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_395,negative,10,56,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Aisa behave nahi karna chahiye tha worst behavior id_396,negative,9,56,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_397,negative,12,62,0,0,0,9,0.0,0.0,0.75,0.0,0.22499999999999998
+Fraud company h paise loot liye mere id_398,negative,8,43,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Khatarnak ganda taste tha breaks my heart truly id_399,negative,9,54,0,0,0,4,0.0,0.0,0.4444444444444444,0.0,0.13333333333333333
+Not good... 😒 id_400,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_401,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_402,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_403,negative,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Bilkul bekar service hai waste of money id_404,negative,8,46,0,0,0,5,0.0,0.0,0.625,0.0,0.1875
+Mood kharab kar diya tumne bilkul achha nahi laga id_405,negative,10,56,0,0,0,9,0.0,0.0,0.9,0.0,0.27
+Aisa behave nahi karna chahiye tha worst behavior id_406,negative,9,56,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_407,negative,12,62,0,0,0,8,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Fraud company h paise loot liye mere id_408,negative,8,43,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Khatarnak ganda taste tha breaks my heart truly id_409,negative,9,54,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Not good... 😒 id_410,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_411,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_412,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_413,negative,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Bilkul bekar service hai waste of money id_414,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_415,negative,10,56,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Aisa behave nahi karna chahiye tha worst behavior id_416,negative,9,56,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_417,negative,12,62,0,0,0,8,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Fraud company h paise loot liye mere id_418,negative,8,43,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Khatarnak ganda taste tha breaks my heart truly id_419,negative,9,54,0,0,0,4,0.0,0.0,0.4444444444444444,0.0,0.13333333333333333
+Not good... 😒 id_420,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_421,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_422,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_423,negative,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Bilkul bekar service hai waste of money id_424,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_425,negative,10,56,0,0,0,9,0.0,0.0,0.9,0.0,0.27
+Aisa behave nahi karna chahiye tha worst behavior id_426,negative,9,56,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_427,negative,12,62,0,0,0,8,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Fraud company h paise loot liye mere id_428,negative,8,43,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Khatarnak ganda taste tha breaks my heart truly id_429,negative,9,54,0,0,0,4,0.0,0.0,0.4444444444444444,0.0,0.13333333333333333
+Not good... 😒 id_430,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_431,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_432,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_433,negative,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Bilkul bekar service hai waste of money id_434,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_435,negative,10,56,0,0,0,10,0.0,0.0,1.0,0.0,0.3
+Aisa behave nahi karna chahiye tha worst behavior id_436,negative,9,56,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_437,negative,12,62,0,0,0,8,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Fraud company h paise loot liye mere id_438,negative,8,43,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Khatarnak ganda taste tha breaks my heart truly id_439,negative,9,54,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Not good... 😒 id_440,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_441,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_442,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_443,negative,9,51,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Bilkul bekar service hai waste of money id_444,negative,8,46,0,1,0,4,0.0,0.125,0.5,0.0,0.18125
+Mood kharab kar diya tumne bilkul achha nahi laga id_445,negative,10,56,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Aisa behave nahi karna chahiye tha worst behavior id_446,negative,9,56,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_447,negative,12,62,0,0,0,8,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Fraud company h paise loot liye mere id_448,negative,8,43,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Khatarnak ganda taste tha breaks my heart truly id_449,negative,9,54,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Not good... 😒 id_450,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_451,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_452,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_453,negative,9,51,0,0,0,8,0.0,0.0,0.8888888888888888,0.0,0.26666666666666666
+Bilkul bekar service hai waste of money id_454,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_455,negative,10,56,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Aisa behave nahi karna chahiye tha worst behavior id_456,negative,9,56,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_457,negative,12,62,0,0,0,8,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Fraud company h paise loot liye mere id_458,negative,8,43,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Khatarnak ganda taste tha breaks my heart truly id_459,negative,9,54,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Not good... 😒 id_460,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_461,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_462,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_463,negative,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Bilkul bekar service hai waste of money id_464,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_465,negative,10,56,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Aisa behave nahi karna chahiye tha worst behavior id_466,negative,9,56,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_467,negative,12,62,0,0,0,9,0.0,0.0,0.75,0.0,0.22499999999999998
+Fraud company h paise loot liye mere id_468,negative,8,43,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Khatarnak ganda taste tha breaks my heart truly id_469,negative,9,54,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Not good... 😒 id_470,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_471,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_472,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_473,negative,9,51,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Bilkul bekar service hai waste of money id_474,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_475,negative,10,56,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Aisa behave nahi karna chahiye tha worst behavior id_476,negative,9,56,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_477,negative,12,62,0,0,0,8,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Fraud company h paise loot liye mere id_478,negative,8,43,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Khatarnak ganda taste tha breaks my heart truly id_479,negative,9,54,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Not good... 😒 id_480,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_481,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_482,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_483,negative,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Bilkul bekar service hai waste of money id_484,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_485,negative,10,56,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Aisa behave nahi karna chahiye tha worst behavior id_486,negative,9,56,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_487,negative,12,62,0,0,0,6,0.0,0.0,0.5,0.0,0.15
+Fraud company h paise loot liye mere id_488,negative,8,43,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Khatarnak ganda taste tha breaks my heart truly id_489,negative,9,54,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Not good... 😒 id_490,negative,7,20,1,0,4,3,0.14285714285714285,0.0,0.42857142857142855,0.5714285714285714,0.2785714285714285
+यह अच्छा नहीं है id_491,negative,11,23,0,0,5,11,0.0,0.0,1.0,0.45454545454545453,0.3909090909090909
+lol 😂😂 that's bad id_492,negative,8,24,2,0,3,3,0.25,0.0,0.375,0.375,0.25
+Bohot hi ganda experience tha maza nahi aaya id_493,negative,9,51,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Bilkul bekar service hai waste of money id_494,negative,8,46,0,0,0,4,0.0,0.0,0.5,0.0,0.15
+Mood kharab kar diya tumne bilkul achha nahi laga id_495,negative,10,56,0,0,0,9,0.0,0.0,0.9,0.0,0.27
+Aisa behave nahi karna chahiye tha worst behavior id_496,negative,9,56,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Server itna slow kyu chal raha hai dimag kharab ho gaya id_497,negative,12,62,0,0,0,7,0.0,0.0,0.5833333333333334,0.0,0.17500000000000002
+Fraud company h paise loot liye mere id_498,negative,8,43,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Khatarnak ganda taste tha breaks my heart truly id_499,negative,9,54,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Normal chal raha hai sab kuch abhi id_0,neutral,8,39,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Haan thik hai main kal batata hu id_1,neutral,8,37,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Train 10 baje aane wali hai platform par id_2,neutral,9,45,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Normal day nothing special just working id_3,neutral,7,44,0,0,0,5,0.0,0.0,0.7142857142857143,0.0,0.21428571428571427
+Iska price kya hai bro bata do please id_4,neutral,9,42,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Laptop automatic restart ho gaya ab chal raha h id_5,neutral,10,52,0,0,0,7,0.0,0.0,0.7,0.0,0.21
+Meeting start hone wali hai ready raho sab id_6,neutral,9,47,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Basic phone h par kaam chal jata h normal text k liye id_7,neutral,13,58,0,0,0,7,0.0,0.0,0.5384615384615384,0.0,0.16153846153846152
+Normal chal raha hai sab kuch abhi id_8,neutral,8,39,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Haan thik hai main kal batata hu id_9,neutral,8,37,0,0,0,8,0.0,0.0,1.0,0.0,0.3
+Train 10 baje aane wali hai platform par id_10,neutral,9,46,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Normal day nothing special just working id_11,neutral,7,45,0,0,0,5,0.0,0.0,0.7142857142857143,0.0,0.21428571428571427
+Iska price kya hai bro bata do please id_12,neutral,9,43,0,0,0,4,0.0,0.0,0.4444444444444444,0.0,0.13333333333333333
+Laptop automatic restart ho gaya ab chal raha h id_13,neutral,10,53,0,0,0,7,0.0,0.0,0.7,0.0,0.21
+Meeting start hone wali hai ready raho sab id_14,neutral,9,48,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Basic phone h par kaam chal jata h normal text k liye id_15,neutral,13,59,0,0,0,7,0.0,0.0,0.5384615384615384,0.0,0.16153846153846152
+Normal chal raha hai sab kuch abhi id_16,neutral,8,40,0,0,0,8,0.0,0.0,1.0,0.0,0.3
+Haan thik hai main kal batata hu id_17,neutral,8,38,0,0,0,5,0.0,0.0,0.625,0.0,0.1875
+Train 10 baje aane wali hai platform par id_18,neutral,9,46,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Normal day nothing special just working id_19,neutral,7,45,0,0,0,6,0.0,0.0,0.8571428571428571,0.0,0.2571428571428571
+Iska price kya hai bro bata do please id_20,neutral,9,43,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Laptop automatic restart ho gaya ab chal raha h id_21,neutral,10,53,0,0,0,6,0.0,0.0,0.6,0.0,0.18
+Meeting start hone wali hai ready raho sab id_22,neutral,9,48,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Basic phone h par kaam chal jata h normal text k liye id_23,neutral,13,59,0,0,0,8,0.0,0.0,0.6153846153846154,0.0,0.18461538461538463
+Normal chal raha hai sab kuch abhi id_24,neutral,8,40,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Haan thik hai main kal batata hu id_25,neutral,8,38,0,0,0,5,0.0,0.0,0.625,0.0,0.1875
+Train 10 baje aane wali hai platform par id_26,neutral,9,46,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Normal day nothing special just working id_27,neutral,7,45,0,0,0,5,0.0,0.0,0.7142857142857143,0.0,0.21428571428571427
+Iska price kya hai bro bata do please id_28,neutral,9,43,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Laptop automatic restart ho gaya ab chal raha h id_29,neutral,10,53,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Meeting start hone wali hai ready raho sab id_30,neutral,9,48,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Basic phone h par kaam chal jata h normal text k liye id_31,neutral,13,59,0,0,0,9,0.0,0.0,0.6923076923076923,0.0,0.20769230769230768
+Normal chal raha hai sab kuch abhi id_32,neutral,8,40,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Haan thik hai main kal batata hu id_33,neutral,8,38,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Train 10 baje aane wali hai platform par id_34,neutral,9,46,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Normal day nothing special just working id_35,neutral,7,45,0,0,0,5,0.0,0.0,0.7142857142857143,0.0,0.21428571428571427
+Iska price kya hai bro bata do please id_36,neutral,9,43,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Laptop automatic restart ho gaya ab chal raha h id_37,neutral,10,53,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Meeting start hone wali hai ready raho sab id_38,neutral,9,48,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Basic phone h par kaam chal jata h normal text k liye id_39,neutral,13,59,0,0,0,7,0.0,0.0,0.5384615384615384,0.0,0.16153846153846152
+Normal chal raha hai sab kuch abhi id_40,neutral,8,40,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Haan thik hai main kal batata hu id_41,neutral,8,38,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Train 10 baje aane wali hai platform par id_42,neutral,9,46,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Normal day nothing special just working id_43,neutral,7,45,0,0,0,5,0.0,0.0,0.7142857142857143,0.0,0.21428571428571427
+Iska price kya hai bro bata do please id_44,neutral,9,43,0,0,0,4,0.0,0.0,0.4444444444444444,0.0,0.13333333333333333
+Laptop automatic restart ho gaya ab chal raha h id_45,neutral,10,53,0,0,0,7,0.0,0.0,0.7,0.0,0.21
+Meeting start hone wali hai ready raho sab id_46,neutral,9,48,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Basic phone h par kaam chal jata h normal text k liye id_47,neutral,13,59,0,0,0,7,0.0,0.0,0.5384615384615384,0.0,0.16153846153846152
+Normal chal raha hai sab kuch abhi id_48,neutral,8,40,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Haan thik hai main kal batata hu id_49,neutral,8,38,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Train 10 baje aane wali hai platform par id_50,neutral,9,46,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Normal day nothing special just working id_51,neutral,7,45,0,0,0,5,0.0,0.0,0.7142857142857143,0.0,0.21428571428571427
+Iska price kya hai bro bata do please id_52,neutral,9,43,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Laptop automatic restart ho gaya ab chal raha h id_53,neutral,10,53,0,0,0,7,0.0,0.0,0.7,0.0,0.21
+Meeting start hone wali hai ready raho sab id_54,neutral,9,48,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Basic phone h par kaam chal jata h normal text k liye id_55,neutral,13,59,0,0,0,6,0.0,0.0,0.46153846153846156,0.0,0.13846153846153847
+Normal chal raha hai sab kuch abhi id_56,neutral,8,40,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Haan thik hai main kal batata hu id_57,neutral,8,38,0,0,0,8,0.0,0.0,1.0,0.0,0.3
+Train 10 baje aane wali hai platform par id_58,neutral,9,46,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Normal day nothing special just working id_59,neutral,7,45,0,0,0,5,0.0,0.0,0.7142857142857143,0.0,0.21428571428571427
+Iska price kya hai bro bata do please id_60,neutral,9,43,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Laptop automatic restart ho gaya ab chal raha h id_61,neutral,10,53,0,0,0,8,0.0,0.0,0.8,0.0,0.24
+Meeting start hone wali hai ready raho sab id_62,neutral,9,48,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Basic phone h par kaam chal jata h normal text k liye id_63,neutral,13,59,0,0,0,6,0.0,0.0,0.46153846153846156,0.0,0.13846153846153847
+Normal chal raha hai sab kuch abhi id_64,neutral,8,40,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Haan thik hai main kal batata hu id_65,neutral,8,38,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Train 10 baje aane wali hai platform par id_66,neutral,9,46,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Normal day nothing special just working id_67,neutral,7,45,0,0,0,6,0.0,0.0,0.8571428571428571,0.0,0.2571428571428571
+Iska price kya hai bro bata do please id_68,neutral,9,43,0,0,0,4,0.0,0.0,0.4444444444444444,0.0,0.13333333333333333
+Laptop automatic restart ho gaya ab chal raha h id_69,neutral,10,53,0,0,0,7,0.0,0.0,0.7,0.0,0.21
+Meeting start hone wali hai ready raho sab id_70,neutral,9,48,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Basic phone h par kaam chal jata h normal text k liye id_71,neutral,13,59,0,0,0,7,0.0,0.0,0.5384615384615384,0.0,0.16153846153846152
+Normal chal raha hai sab kuch abhi id_72,neutral,8,40,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Haan thik hai main kal batata hu id_73,neutral,8,38,0,0,0,8,0.0,0.0,1.0,0.0,0.3
+Train 10 baje aane wali hai platform par id_74,neutral,9,46,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Normal day nothing special just working id_75,neutral,7,45,0,0,0,5,0.0,0.0,0.7142857142857143,0.0,0.21428571428571427
+Iska price kya hai bro bata do please id_76,neutral,9,43,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Laptop automatic restart ho gaya ab chal raha h id_77,neutral,10,53,0,0,0,5,0.0,0.0,0.5,0.0,0.15
+Meeting start hone wali hai ready raho sab id_78,neutral,9,48,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Basic phone h par kaam chal jata h normal text k liye id_79,neutral,13,59,0,0,0,7,0.0,0.0,0.5384615384615384,0.0,0.16153846153846152
+Normal chal raha hai sab kuch abhi id_80,neutral,8,40,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Haan thik hai main kal batata hu id_81,neutral,8,38,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Train 10 baje aane wali hai platform par id_82,neutral,9,46,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Normal day nothing special just working id_83,neutral,7,45,0,0,0,6,0.0,0.0,0.8571428571428571,0.0,0.2571428571428571
+Iska price kya hai bro bata do please id_84,neutral,9,43,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Laptop automatic restart ho gaya ab chal raha h id_85,neutral,10,53,0,0,0,6,0.0,0.0,0.6,0.0,0.18
+Meeting start hone wali hai ready raho sab id_86,neutral,9,48,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Basic phone h par kaam chal jata h normal text k liye id_87,neutral,13,59,0,0,0,6,0.0,0.0,0.46153846153846156,0.0,0.13846153846153847
+Normal chal raha hai sab kuch abhi id_88,neutral,8,40,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Haan thik hai main kal batata hu id_89,neutral,8,38,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Train 10 baje aane wali hai platform par id_90,neutral,9,46,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Normal day nothing special just working id_91,neutral,7,45,0,0,0,5,0.0,0.0,0.7142857142857143,0.0,0.21428571428571427
+Iska price kya hai bro bata do please id_92,neutral,9,43,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Laptop automatic restart ho gaya ab chal raha h id_93,neutral,10,53,0,0,0,6,0.0,0.0,0.6,0.0,0.18
+Meeting start hone wali hai ready raho sab id_94,neutral,9,48,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Basic phone h par kaam chal jata h normal text k liye id_95,neutral,13,59,0,0,0,7,0.0,0.0,0.5384615384615384,0.0,0.16153846153846152
+Normal chal raha hai sab kuch abhi id_96,neutral,8,40,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Haan thik hai main kal batata hu id_97,neutral,8,38,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Train 10 baje aane wali hai platform par id_98,neutral,9,46,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Normal day nothing special just working id_99,neutral,7,45,0,0,0,6,0.0,0.0,0.8571428571428571,0.0,0.2571428571428571
+Iska price kya hai bro bata do please id_100,neutral,9,44,0,0,0,4,0.0,0.0,0.4444444444444444,0.0,0.13333333333333333
+Laptop automatic restart ho gaya ab chal raha h id_101,neutral,10,54,0,0,0,7,0.0,0.0,0.7,0.0,0.21
+Meeting start hone wali hai ready raho sab id_102,neutral,9,49,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Basic phone h par kaam chal jata h normal text k liye id_103,neutral,13,60,0,0,0,6,0.0,0.0,0.46153846153846156,0.0,0.13846153846153847
+Normal chal raha hai sab kuch abhi id_104,neutral,8,41,0,0,0,8,0.0,0.0,1.0,0.0,0.3
+Haan thik hai main kal batata hu id_105,neutral,8,39,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Train 10 baje aane wali hai platform par id_106,neutral,9,47,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Normal day nothing special just working id_107,neutral,7,46,0,0,0,5,0.0,0.0,0.7142857142857143,0.0,0.21428571428571427
+Iska price kya hai bro bata do please id_108,neutral,9,44,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Laptop automatic restart ho gaya ab chal raha h id_109,neutral,10,54,0,0,0,7,0.0,0.0,0.7,0.0,0.21
+Meeting start hone wali hai ready raho sab id_110,neutral,9,49,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Basic phone h par kaam chal jata h normal text k liye id_111,neutral,13,60,0,1,0,7,0.0,0.07692307692307693,0.5384615384615384,0.0,0.18076923076923074
+Normal chal raha hai sab kuch abhi id_112,neutral,8,41,0,0,0,8,0.0,0.0,1.0,0.0,0.3
+Haan thik hai main kal batata hu id_113,neutral,8,39,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Train 10 baje aane wali hai platform par id_114,neutral,9,47,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Normal day nothing special just working id_115,neutral,7,46,0,0,0,5,0.0,0.0,0.7142857142857143,0.0,0.21428571428571427
+Iska price kya hai bro bata do please id_116,neutral,9,44,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Laptop automatic restart ho gaya ab chal raha h id_117,neutral,10,54,0,0,0,7,0.0,0.0,0.7,0.0,0.21
+Meeting start hone wali hai ready raho sab id_118,neutral,9,49,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Basic phone h par kaam chal jata h normal text k liye id_119,neutral,13,60,0,0,0,7,0.0,0.0,0.5384615384615384,0.0,0.16153846153846152
+Normal chal raha hai sab kuch abhi id_120,neutral,8,41,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Haan thik hai main kal batata hu id_121,neutral,8,39,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Train 10 baje aane wali hai platform par id_122,neutral,9,47,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Normal day nothing special just working id_123,neutral,7,46,0,0,0,5,0.0,0.0,0.7142857142857143,0.0,0.21428571428571427
+Iska price kya hai bro bata do please id_124,neutral,9,44,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Laptop automatic restart ho gaya ab chal raha h id_125,neutral,10,54,0,0,0,6,0.0,0.0,0.6,0.0,0.18
+Meeting start hone wali hai ready raho sab id_126,neutral,9,49,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Basic phone h par kaam chal jata h normal text k liye id_127,neutral,13,60,0,0,0,7,0.0,0.0,0.5384615384615384,0.0,0.16153846153846152
+Normal chal raha hai sab kuch abhi id_128,neutral,8,41,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Haan thik hai main kal batata hu id_129,neutral,8,39,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Train 10 baje aane wali hai platform par id_130,neutral,9,47,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Normal day nothing special just working id_131,neutral,7,46,0,0,0,5,0.0,0.0,0.7142857142857143,0.0,0.21428571428571427
+Iska price kya hai bro bata do please id_132,neutral,9,44,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Laptop automatic restart ho gaya ab chal raha h id_133,neutral,10,54,0,0,0,7,0.0,0.0,0.7,0.0,0.21
+Meeting start hone wali hai ready raho sab id_134,neutral,9,49,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Basic phone h par kaam chal jata h normal text k liye id_135,neutral,13,60,0,0,0,6,0.0,0.0,0.46153846153846156,0.0,0.13846153846153847
+Normal chal raha hai sab kuch abhi id_136,neutral,8,41,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Haan thik hai main kal batata hu id_137,neutral,8,39,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Train 10 baje aane wali hai platform par id_138,neutral,9,47,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Normal day nothing special just working id_139,neutral,7,46,0,0,0,6,0.0,0.0,0.8571428571428571,0.0,0.2571428571428571
+Iska price kya hai bro bata do please id_140,neutral,9,44,0,0,0,4,0.0,0.0,0.4444444444444444,0.0,0.13333333333333333
+Laptop automatic restart ho gaya ab chal raha h id_141,neutral,10,54,0,0,0,6,0.0,0.0,0.6,0.0,0.18
+Meeting start hone wali hai ready raho sab id_142,neutral,9,49,0,0,0,7,0.0,0.0,0.7777777777777778,0.0,0.23333333333333334
+Basic phone h par kaam chal jata h normal text k liye id_143,neutral,13,60,0,0,0,6,0.0,0.0,0.46153846153846156,0.0,0.13846153846153847
+Normal chal raha hai sab kuch abhi id_144,neutral,8,41,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Haan thik hai main kal batata hu id_145,neutral,8,39,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Train 10 baje aane wali hai platform par id_146,neutral,9,47,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Normal day nothing special just working id_147,neutral,7,46,0,0,0,5,0.0,0.0,0.7142857142857143,0.0,0.21428571428571427
+Iska price kya hai bro bata do please id_148,neutral,9,44,0,0,0,4,0.0,0.0,0.4444444444444444,0.0,0.13333333333333333
+Laptop automatic restart ho gaya ab chal raha h id_149,neutral,10,54,0,0,0,6,0.0,0.0,0.6,0.0,0.18
+Meeting start hone wali hai ready raho sab id_150,neutral,9,49,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Basic phone h par kaam chal jata h normal text k liye id_151,neutral,13,60,0,0,0,7,0.0,0.0,0.5384615384615384,0.0,0.16153846153846152
+Normal chal raha hai sab kuch abhi id_152,neutral,8,41,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Haan thik hai main kal batata hu id_153,neutral,8,39,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Train 10 baje aane wali hai platform par id_154,neutral,9,47,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Normal day nothing special just working id_155,neutral,7,46,0,0,0,5,0.0,0.0,0.7142857142857143,0.0,0.21428571428571427
+Iska price kya hai bro bata do please id_156,neutral,9,44,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Laptop automatic restart ho gaya ab chal raha h id_157,neutral,10,54,0,0,0,6,0.0,0.0,0.6,0.0,0.18
+Meeting start hone wali hai ready raho sab id_158,neutral,9,49,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Basic phone h par kaam chal jata h normal text k liye id_159,neutral,13,60,0,0,0,7,0.0,0.0,0.5384615384615384,0.0,0.16153846153846152
+Normal chal raha hai sab kuch abhi id_160,neutral,8,41,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Haan thik hai main kal batata hu id_161,neutral,8,39,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Train 10 baje aane wali hai platform par id_162,neutral,9,47,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Normal day nothing special just working id_163,neutral,7,46,0,0,0,6,0.0,0.0,0.8571428571428571,0.0,0.2571428571428571
+Iska price kya hai bro bata do please id_164,neutral,9,44,0,0,0,4,0.0,0.0,0.4444444444444444,0.0,0.13333333333333333
+Laptop automatic restart ho gaya ab chal raha h id_165,neutral,10,54,0,0,0,6,0.0,0.0,0.6,0.0,0.18
+Meeting start hone wali hai ready raho sab id_166,neutral,9,49,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Basic phone h par kaam chal jata h normal text k liye id_167,neutral,13,60,0,0,0,5,0.0,0.0,0.38461538461538464,0.0,0.11538461538461539
+Normal chal raha hai sab kuch abhi id_168,neutral,8,41,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Haan thik hai main kal batata hu id_169,neutral,8,39,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Train 10 baje aane wali hai platform par id_170,neutral,9,47,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Normal day nothing special just working id_171,neutral,7,46,0,0,0,5,0.0,0.0,0.7142857142857143,0.0,0.21428571428571427
+Iska price kya hai bro bata do please id_172,neutral,9,44,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Laptop automatic restart ho gaya ab chal raha h id_173,neutral,10,54,0,0,0,6,0.0,0.0,0.6,0.0,0.18
+Meeting start hone wali hai ready raho sab id_174,neutral,9,49,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Basic phone h par kaam chal jata h normal text k liye id_175,neutral,13,60,0,0,0,8,0.0,0.0,0.6153846153846154,0.0,0.18461538461538463
+Normal chal raha hai sab kuch abhi id_176,neutral,8,41,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Haan thik hai main kal batata hu id_177,neutral,8,39,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Train 10 baje aane wali hai platform par id_178,neutral,9,47,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Normal day nothing special just working id_179,neutral,7,46,0,0,0,6,0.0,0.0,0.8571428571428571,0.0,0.2571428571428571
+Iska price kya hai bro bata do please id_180,neutral,9,44,0,0,0,4,0.0,0.0,0.4444444444444444,0.0,0.13333333333333333
+Laptop automatic restart ho gaya ab chal raha h id_181,neutral,10,54,0,0,0,6,0.0,0.0,0.6,0.0,0.18
+Meeting start hone wali hai ready raho sab id_182,neutral,9,49,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Basic phone h par kaam chal jata h normal text k liye id_183,neutral,13,60,0,0,0,7,0.0,0.0,0.5384615384615384,0.0,0.16153846153846152
+Normal chal raha hai sab kuch abhi id_184,neutral,8,41,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Haan thik hai main kal batata hu id_185,neutral,8,39,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Train 10 baje aane wali hai platform par id_186,neutral,9,47,0,0,0,5,0.0,0.0,0.5555555555555556,0.0,0.16666666666666666
+Normal day nothing special just working id_187,neutral,7,46,0,0,0,5,0.0,0.0,0.7142857142857143,0.0,0.21428571428571427
+Iska price kya hai bro bata do please id_188,neutral,9,44,0,0,0,4,0.0,0.0,0.4444444444444444,0.0,0.13333333333333333
+Laptop automatic restart ho gaya ab chal raha h id_189,neutral,10,54,0,0,0,6,0.0,0.0,0.6,0.0,0.18
+Meeting start hone wali hai ready raho sab id_190,neutral,9,49,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Basic phone h par kaam chal jata h normal text k liye id_191,neutral,13,60,0,0,0,7,0.0,0.0,0.5384615384615384,0.0,0.16153846153846152
+Normal chal raha hai sab kuch abhi id_192,neutral,8,41,0,0,0,7,0.0,0.0,0.875,0.0,0.2625
+Haan thik hai main kal batata hu id_193,neutral,8,39,0,0,0,6,0.0,0.0,0.75,0.0,0.22499999999999998
+Train 10 baje aane wali hai platform par id_194,neutral,9,47,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Normal day nothing special just working id_195,neutral,7,46,0,0,0,6,0.0,0.0,0.8571428571428571,0.0,0.2571428571428571
+Iska price kya hai bro bata do please id_196,neutral,9,44,0,0,0,4,0.0,0.0,0.4444444444444444,0.0,0.13333333333333333
+Laptop automatic restart ho gaya ab chal raha h id_197,neutral,10,54,0,0,0,5,0.0,0.0,0.5,0.0,0.15
+Meeting start hone wali hai ready raho sab id_198,neutral,9,49,0,0,0,6,0.0,0.0,0.6666666666666666,0.0,0.19999999999999998
+Basic phone h par kaam chal jata h normal text k liye id_199,neutral,13,60,0,0,0,7,0.0,0.0,0.5384615384615384,0.0,0.16153846153846152
