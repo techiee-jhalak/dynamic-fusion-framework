@@ -3,7 +3,7 @@ services:
     name: dynamic-fusion-framework
     env: docker
     plan: free
-    dockerfilePath: ./docker/Dockerfile.backend
+    dockerfilePath: docker/Dockerfile.backend
     dockerContext: .
     envVars:
       - key: PORT
