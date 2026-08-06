@@ -1,0 +1,13 @@
+{
+  "accuracy": 1.0,
+  "macro_f1": 1.0,
+  "best_params": {
+    "clf__C": 0.5,
+    "clf__class_weight": "balanced"
+  },
+  "classes": [
+    0,
+    1,
+    2
+  ]
+}

@@ -1,3 +1,6 @@
+import os
+import joblib
+import pandas as pd
 from fastapi import APIRouter, Depends, HTTPException
 from pydantic import BaseModel
 from pathlib import Path
@@ -11,6 +14,9 @@ from research_pipeline.src.models.fusion_models import dynamic_noise_aware_fusio
 from backend.app.database import get_db
 from backend.app.schemas.experiment import ExperimentCreate, ExperimentRead
 from backend.app import crud
+
+ROOT = Path(__file__).resolve().parents[2]
+MODEL_PATH = ROOT / 'ml_models' / 'sail_fusion_model.joblib'
 
 router = APIRouter()
 
@@ -64,35 +70,30 @@ async def evaluate_endpoint(request: EvaluateRequest):
 async def predict_endpoint(request: PredictRequest):
     if not Path(request.dataset_path).exists():
         raise HTTPException(status_code=404, detail='Dataset path not found')
-    # load and enrich dataset, then run fusion-based prediction
-    enriched = load_and_enrich(request.dataset_path)
-    X = enriched['text'].astype(str).tolist()
-    vader = VaderWrapper()
-    v_probs = vader.predict_proba(X)
-    dist = TransformerWrapper('distilbert-base-uncased-finetuned-sst-2-english')
-    d_probs = dist.predict_proba(X)
-    lengths = enriched['token_count'].fillna(1).astype(float).to_numpy()
-    noise = enriched['N'].fillna(0).astype(float).to_numpy()
-    preds, scores, alphas = dynamic_noise_aware_fusion(v_probs, d_probs, lengths, noise, w1=request.w1, w2=request.w2)
-    out_df = enriched.copy()
+    if not MODEL_PATH.exists():
+        raise HTTPException(status_code=500, detail='Model artifact not found')
+
+    artifact = joblib.load(MODEL_PATH)
+    model = artifact['pipeline']
+    df = pd.read_csv(request.dataset_path)
+    texts = df['text'].astype(str).tolist()
+    preds = model.predict(texts)
+    probs = model.predict_proba(texts)
+    results = []
+    for pred, prob in zip(preds, probs):
+        label = int(pred)
+        results.append({
+            'sentiment': 'positive' if label == 2 else 'negative' if label == 0 else 'neutral',
+            'confidence': float(max(prob)),
+            'probabilities': [float(v) for v in prob],
+        })
+
+    out_df = df.copy()
     out_df['pred'] = preds
-    out_df['score'] = scores
-    out_df['alpha'] = alphas
+    out_df['confidence'] = [r['confidence'] for r in results]
     out_dir = Path(request.output_path).parent
     out_dir.mkdir(parents=True, exist_ok=True)
     out_df.to_csv(request.output_path, index=False)
-    # build structured per-sample results
-    results = []
-    for i in range(len(out_df)):
-        pred_label = int(preds[i])
-        results.append({
-            'sentiment': 'positive' if pred_label == 1 else 'negative',
-            'confidence': float(scores[i]) if hasattr(scores, '__len__') else float(scores),
-            'noise_score': float(noise[i]),
-            'fusion_weight': float(alphas[i]),
-            'vader_score': float(v_probs[i][1]) if hasattr(v_probs, '__len__') else None,
-            'distilbert_score': float(d_probs[i][1]) if hasattr(d_probs, '__len__') else None,
-        })
     return {'status': 'ok', 'output_path': request.output_path, 'predictions': len(out_df), 'results_sample': results[:20]}
 
 @router.post('/noise-analysis')
