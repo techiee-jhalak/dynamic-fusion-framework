@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: dynamic-fusion-framework
+    env: docker
+    plan: free
+    dockerfilePath: ./docker/Dockerfile.backend
+    dockerContext: .
+    envVars:
+      - key: PORT
+        value: 5000

@@ -16,4 +16,6 @@ statsmodels>=0.14.0
 emoji>=2.4
 langdetect>=1.0.9
 pytest>=7.0
+streamlit>=1.39.0
+requests>=2.32.0
 
